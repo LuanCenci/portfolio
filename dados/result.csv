@@ -1,0 +1,967 @@
+"";"IDCREDITO";"Duracao";"HISTORICO";"PROPOSITO";"Valor";"INVESTIMENTOS";"EMPREGO";"TempoParcelamento";"ESTADOCIVIL";"FIADOR";"ResidenciaDesde";"Idade";"OUTROSFINANCIAMENTOS";"HABITACAO";"EmprestimoExistente";"PROFISSAO";"Dependentes";"SocioEmpresa";"Estrangeiro";"Status"
+"1";2;48;"existentes/pagos";"reforma";5951;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;22;"nenhum";"propria";1;"qualificado";1;0;0;0
+"2";3;12;"Critico-outros creditos";"educacao";2096;"<100";"4<=X<7";2;"masculino solteiro";"nao";3;49;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"3";4;42;"existentes/pagos";"moveis";7882;"<100";"4<=X<7";2;"masculino solteiro";"sim";4;45;"nenhum";"gratuita";1;"qualificado";2;0;0;1
+"4";5;24;"Atrasos anteriores";"veiculo";4870;"<100";"1<=X<4";3;"masculino solteiro";"nao";4;53;"nenhum";"gratuita";2;"qualificado";2;0;0;0
+"5";6;36;"existentes/pagos";"educacao";9055;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";4;35;"nenhum";"gratuita";1;"nao qualificado";2;1;0;1
+"6";7;24;"existentes/pagos";"moveis";2835;"500<=X<1000";">=7";3;"masculino solteiro";"nao";4;53;"nenhum";"propria";1;"qualificado";1;0;0;1
+"7";9;12;"existentes/pagos";"reforma";3059;">=1000";"4<=X<7";2;"masculino div/dep";"nao";4;61;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"8";11;12;"existentes/pagos";"veiculo";1295;"<100";"<1";3;"feminino div/dep/cas";"nao";1;25;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"9";13;12;"existentes/pagos";"reforma";1567;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";1;22;"nenhum";"propria";1;"qualificado";1;1;0;1
+"10";14;24;"Critico-outros creditos";"veiculo";1199;"<100";">=7";4;"masculino solteiro";"nao";4;60;"nenhum";"propria";2;"nao qualificado";1;0;0;0
+"11";16;24;"existentes/pagos";"reforma";1282;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"nao";2;32;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"12";17;24;"Critico-outros creditos";"reforma";2424;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;53;"nenhum";"propria";2;"qualificado";1;0;0;1
+"13";18;30;"sem creditos/todos pagos";"abrir negocio";8072;"Desconhecido";"<1";2;"masculino solteiro";"nao";3;25;"banco";"propria";3;"qualificado";1;0;0;1
+"14";19;24;"existentes/pagos";"veiculo";12579;"<100";">=7";4;"feminino div/dep/cas";"nao";2;44;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"15";20;24;"existentes/pagos";"reforma";3430;"500<=X<1000";">=7";3;"masculino solteiro";"nao";2;31;"nenhum";"propria";1;"qualificado";2;1;0;1
+"16";21;9;"Critico-outros creditos";"veiculo";2134;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;48;"nenhum";"propria";3;"qualificado";1;1;0;1
+"17";22;6;"existentes/pagos";"reforma";2647;"500<=X<1000";"1<=X<4";2;"masculino solteiro";"nao";3;44;"nenhum";"alugada";1;"qualificado";2;0;0;1
+"18";23;10;"Critico-outros creditos";"veiculo";2241;"<100";"<1";1;"masculino solteiro";"nao";3;48;"nenhum";"alugada";2;"nao qualificado";2;0;1;1
+"19";24;12;"Critico-outros creditos";"veiculo";1804;"100<=X<500";"<1";3;"masculino solteiro";"nao";4;44;"nenhum";"propria";1;"qualificado";1;0;0;1
+"20";25;10;"Critico-outros creditos";"moveis";2069;"Desconhecido";"1<=X<4";2;"masculino cas/viu";"nao";1;26;"nenhum";"propria";2;"qualificado";1;0;1;1
+"21";26;6;"existentes/pagos";"moveis";1374;"<100";"1<=X<4";1;"masculino solteiro";"nao";2;36;"banco";"propria";1;"nao qualificado";1;1;0;1
+"22";27;6;"sem creditos/todos pagos";"reforma";426;"<100";">=7";4;"masculino cas/viu";"nao";4;39;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"23";28;12;"todos pagos";"reforma";409;">=1000";"1<=X<4";3;"feminino div/dep/cas";"nao";3;42;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"24";29;7;"existentes/pagos";"reforma";2415;"<100";"1<=X<4";3;"masculino solteiro";"sim";2;34;"nenhum";"propria";1;"qualificado";1;0;0;1
+"25";30;60;"Atrasos anteriores";"abrir negocio";6836;"<100";">=7";3;"masculino solteiro";"nao";4;63;"nenhum";"propria";2;"qualificado";1;1;0;0
+"26";31;18;"existentes/pagos";"abrir negocio";1913;">=1000";"<1";3;"masculino cas/viu";"nao";3;36;"banco";"propria";1;"qualificado";1;1;0;1
+"27";32;24;"existentes/pagos";"moveis";4020;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;27;"loja";"propria";1;"qualificado";1;0;0;1
+"28";33;18;"existentes/pagos";"veiculo";5866;"100<=X<500";"1<=X<4";2;"masculino solteiro";"nao";2;30;"nenhum";"propria";2;"qualificado";1;1;0;1
+"29";34;12;"Critico-outros creditos";"abrir negocio";1264;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;57;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"30";36;45;"Critico-outros creditos";"reforma";4746;"<100";"<1";4;"masculino solteiro";"nao";2;25;"nenhum";"propria";2;"nao qualificado";1;0;0;0
+"31";37;48;"Critico-outros creditos";"educacao";6110;"<100";"1<=X<4";1;"masculino solteiro";"nao";3;31;"banco";"gratuita";1;"qualificado";1;1;0;1
+"32";38;18;"existentes/pagos";"reforma";2100;"<100";"1<=X<4";4;"masculino solteiro";"co-participativo";2;37;"loja";"propria";1;"qualificado";1;0;0;0
+"33";39;10;"existentes/pagos";"outros";1225;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;37;"nenhum";"propria";1;"qualificado";1;1;0;1
+"34";40;9;"existentes/pagos";"reforma";458;"<100";"1<=X<4";4;"masculino solteiro";"nao";3;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"35";41;30;"existentes/pagos";"reforma";2333;"500<=X<1000";">=7";4;"masculino solteiro";"nao";2;30;"banco";"propria";1;"altamente qualificado/empresario";1;0;0;1
+"36";42;12;"existentes/pagos";"reforma";1158;"500<=X<1000";"1<=X<4";3;"masculino div/dep";"nao";1;26;"nenhum";"propria";1;"qualificado";1;1;0;1
+"37";43;18;"Atrasos anteriores";"reforma";6204;"<100";"1<=X<4";2;"masculino solteiro";"nao";4;44;"nenhum";"propria";1;"nao qualificado";2;1;0;1
+"38";44;30;"Critico-outros creditos";"veiculo";6187;"100<=X<500";"4<=X<7";1;"masculino cas/viu";"nao";4;24;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"39";46;11;"Critico-outros creditos";"veiculo";1393;"<100";"<1";4;"feminino div/dep/cas";"nao";4;35;"nenhum";"propria";2;"altamente qualificado/empresario";1;0;0;1
+"40";47;36;"existentes/pagos";"reforma";2299;"500<=X<1000";">=7";4;"masculino solteiro";"nao";4;39;"nenhum";"propria";1;"qualificado";1;0;0;1
+"41";48;6;"existentes/pagos";"veiculo";1352;"500<=X<1000";"Desempregado";1;"feminino div/dep/cas";"nao";2;23;"nenhum";"alugada";1;"desempregado";1;1;0;1
+"42";49;11;"Critico-outros creditos";"veiculo";7228;"<100";"1<=X<4";1;"masculino solteiro";"nao";4;39;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"43";50;12;"existentes/pagos";"reforma";2073;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"co-participativo";2;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"44";51;24;"Atrasos anteriores";"moveis";2333;"Desconhecido";"<1";4;"masculino solteiro";"nao";2;29;"banco";"propria";1;"nao qualificado";1;0;0;1
+"45";52;27;"Atrasos anteriores";"veiculo";5965;"<100";">=7";1;"masculino solteiro";"nao";2;30;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"46";53;12;"existentes/pagos";"reforma";1262;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;25;"nenhum";"propria";1;"qualificado";1;0;0;1
+"47";54;18;"existentes/pagos";"veiculo";3378;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";1;31;"nenhum";"propria";1;"qualificado";1;1;0;1
+"48";55;36;"Atrasos anteriores";"veiculo";2225;"<100";">=7";4;"masculino solteiro";"nao";4;57;"banco";"gratuita";2;"qualificado";1;1;0;0
+"49";57;12;"existentes/pagos";"reforma";6468;"Desconhecido";"Desempregado";2;"masculino solteiro";"nao";1;52;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"50";58;36;"Critico-outros creditos";"reforma";9566;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;31;"loja";"propria";2;"qualificado";1;0;0;1
+"51";59;18;"existentes/pagos";"veiculo";1961;"<100";">=7";3;"feminino div/dep/cas";"nao";2;23;"nenhum";"propria";1;"altamente qualificado/empresario";1;0;0;1
+"52";60;36;"Critico-outros creditos";"moveis";6229;"<100";"<1";4;"feminino div/dep/cas";"co-participativo";4;23;"nenhum";"alugada";2;"nao qualificado";1;1;0;0
+"53";61;9;"existentes/pagos";"abrir negocio";1391;"<100";"1<=X<4";2;"masculino cas/viu";"nao";1;27;"banco";"propria";1;"qualificado";1;1;0;1
+"54";62;15;"Critico-outros creditos";"reforma";1537;"Desconhecido";">=7";4;"masculino solteiro";"sim";4;50;"nenhum";"propria";2;"qualificado";1;1;0;1
+"55";63;36;"sem creditos/todos pagos";"abrir negocio";1953;"<100";">=7";4;"masculino solteiro";"nao";4;61;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"56";64;48;"sem creditos/todos pagos";"abrir negocio";14421;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;25;"nenhum";"propria";1;"qualificado";1;1;0;0
+"57";65;24;"existentes/pagos";"reforma";3181;"<100";"<1";4;"feminino div/dep/cas";"nao";4;26;"nenhum";"propria";1;"qualificado";1;1;0;1
+"58";66;27;"existentes/pagos";"reforma";5190;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;48;"nenhum";"propria";4;"qualificado";2;1;0;1
+"59";67;12;"existentes/pagos";"reforma";2171;"<100";"<1";2;"feminino div/dep/cas";"nao";2;29;"banco";"propria";1;"qualificado";1;0;0;1
+"60";68;12;"existentes/pagos";"veiculo";1007;">=1000";"1<=X<4";4;"masculino cas/viu";"nao";1;22;"nenhum";"propria";1;"qualificado";1;0;0;1
+"61";70;36;"existentes/pagos";"reforma";2394;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";4;25;"nenhum";"propria";1;"qualificado";1;0;0;1
+"62";35;12;"existentes/pagos";"moveis";1474;"<100";"<1";4;"feminino div/dep/cas";"nao";4;33;"banco";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"63";71;36;"existentes/pagos";"veiculo";8133;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";2;30;"banco";"propria";1;"qualificado";1;0;0;1
+"64";72;7;"Critico-outros creditos";"reforma";730;"Desconhecido";">=7";4;"masculino solteiro";"nao";2;46;"nenhum";"alugada";2;"nao qualificado";1;1;0;1
+"65";73;8;"Critico-outros creditos";"outros";1164;"<100";">=7";3;"masculino solteiro";"nao";4;51;"banco";"gratuita";2;"altamente qualificado/empresario";2;1;0;1
+"66";74;42;"Critico-outros creditos";"abrir negocio";5954;"<100";"4<=X<7";2;"feminino div/dep/cas";"nao";1;41;"banco";"propria";2;"nao qualificado";1;0;0;1
+"67";76;12;"Critico-outros creditos";"veiculo";1526;"<100";">=7";4;"masculino solteiro";"nao";4;66;"nenhum";"gratuita";2;"altamente qualificado/empresario";1;0;0;1
+"68";77;42;"existentes/pagos";"reforma";3965;"<100";"<1";4;"masculino solteiro";"nao";3;34;"nenhum";"propria";1;"qualificado";1;0;0;0
+"69";79;54;"sem creditos/todos pagos";"veiculo";9436;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";2;39;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"70";80;30;"existentes/pagos";"moveis";3832;"<100";"<1";2;"masculino cas/viu";"nao";1;22;"nenhum";"propria";1;"qualificado";1;0;0;1
+"71";81;24;"existentes/pagos";"reforma";5943;"Desconhecido";"<1";1;"feminino div/dep/cas";"nao";1;44;"nenhum";"propria";2;"qualificado";1;1;0;0
+"72";82;15;"existentes/pagos";"reforma";1213;"500<=X<1000";">=7";4;"masculino solteiro";"nao";3;47;"loja";"propria";1;"qualificado";1;1;0;1
+"73";83;18;"existentes/pagos";"abrir negocio";1568;"100<=X<500";"1<=X<4";3;"feminino div/dep/cas";"nao";4;24;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"74";84;24;"existentes/pagos";"outros";1755;"<100";">=7";4;"feminino div/dep/cas";"sim";4;58;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"75";85;10;"existentes/pagos";"reforma";2315;"<100";">=7";3;"masculino solteiro";"nao";4;52;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"76";86;12;"Critico-outros creditos";"abrir negocio";1412;"<100";"1<=X<4";4;"feminino div/dep/cas";"sim";2;29;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"77";87;18;"Critico-outros creditos";"moveis";1295;"<100";"<1";4;"feminino div/dep/cas";"nao";1;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"78";88;36;"existentes/pagos";"educacao";12612;"100<=X<500";"1<=X<4";1;"masculino solteiro";"nao";4;47;"nenhum";"gratuita";1;"qualificado";2;1;0;0
+"79";89;18;"existentes/pagos";"veiculo";2249;"100<=X<500";"4<=X<7";4;"masculino solteiro";"nao";3;30;"nenhum";"propria";1;"altamente qualificado/empresario";2;1;0;1
+"80";90;12;"sem creditos/todos pagos";"reforma";1108;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;28;"nenhum";"propria";2;"qualificado";1;0;0;0
+"81";91;12;"Critico-outros creditos";"reforma";618;"<100";">=7";4;"masculino solteiro";"nao";4;56;"nenhum";"propria";1;"qualificado";1;0;0;1
+"82";92;12;"Critico-outros creditos";"veiculo";1409;"<100";">=7";4;"masculino solteiro";"nao";3;54;"nenhum";"propria";1;"qualificado";1;0;0;1
+"83";93;12;"Critico-outros creditos";"reforma";797;"Desconhecido";">=7";4;"feminino div/dep/cas";"nao";3;33;"banco";"propria";1;"nao qualificado";2;0;0;0
+"84";94;24;"Critico-outros creditos";"moveis";3617;"Desconhecido";">=7";4;"masculino solteiro";"co-participativo";4;20;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"85";96;54;"sem creditos/todos pagos";"abrir negocio";15945;"<100";"<1";3;"masculino solteiro";"nao";4;58;"nenhum";"alugada";1;"qualificado";1;1;0;0
+"86";97;12;"Critico-outros creditos";"educacao";2012;"Desconhecido";"4<=X<7";4;"feminino div/dep/cas";"nao";2;61;"nenhum";"propria";1;"qualificado";1;0;0;1
+"87";98;18;"existentes/pagos";"abrir negocio";2622;"100<=X<500";"1<=X<4";4;"masculino solteiro";"nao";4;34;"nenhum";"propria";1;"qualificado";1;0;0;1
+"88";99;36;"Critico-outros creditos";"reforma";2337;"<100";">=7";4;"masculino solteiro";"nao";4;36;"nenhum";"propria";1;"qualificado";1;0;0;1
+"89";100;20;"Atrasos anteriores";"veiculo";7057;"Desconhecido";"4<=X<7";3;"masculino solteiro";"nao";4;36;"banco";"alugada";2;"altamente qualificado/empresario";2;1;0;1
+"90";101;24;"existentes/pagos";"veiculo";1469;"100<=X<500";">=7";4;"masculino cas/viu";"nao";4;41;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"91";102;36;"existentes/pagos";"reforma";2323;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;24;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"92";103;6;"Atrasos anteriores";"reforma";932;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"93";104;9;"Critico-outros creditos";"moveis";1919;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;35;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"94";105;12;"existentes/pagos";"veiculo";2445;"Desconhecido";"<1";2;"masculino cas/viu";"nao";4;26;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"95";106;24;"Critico-outros creditos";"outros";11938;"<100";"1<=X<4";2;"masculino solteiro";"co-participativo";3;39;"nenhum";"propria";2;"altamente qualificado/empresario";2;1;0;0
+"96";107;18;"todos pagos";"veiculo";6458;"<100";">=7";2;"masculino solteiro";"nao";4;39;"banco";"propria";2;"altamente qualificado/empresario";2;1;0;0
+"97";108;12;"existentes/pagos";"veiculo";6078;"<100";"4<=X<7";2;"masculino solteiro";"nao";2;32;"nenhum";"propria";1;"qualificado";1;0;0;1
+"98";109;24;"existentes/pagos";"moveis";7721;"Desconhecido";"<1";1;"feminino div/dep/cas";"nao";2;30;"nenhum";"propria";1;"qualificado";1;1;1;1
+"99";110;14;"existentes/pagos";"abrir negocio";1410;"500<=X<1000";">=7";1;"masculino cas/viu";"nao";2;35;"nenhum";"propria";1;"qualificado";1;1;0;1
+"100";111;6;"Atrasos anteriores";"abrir negocio";1449;"100<=X<500";">=7";1;"masculino div/dep";"nao";2;31;"banco";"propria";2;"qualificado";2;0;0;1
+"101";112;15;"existentes/pagos";"educacao";392;"<100";"<1";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"102";113;18;"existentes/pagos";"veiculo";6260;"<100";"4<=X<7";3;"masculino solteiro";"nao";3;28;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"103";114;36;"Critico-outros creditos";"veiculo";7855;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;25;"loja";"propria";2;"qualificado";1;1;0;0
+"104";115;12;"existentes/pagos";"reforma";1680;"500<=X<1000";">=7";3;"masculino cas/viu";"nao";1;35;"nenhum";"propria";1;"qualificado";1;0;0;1
+"105";116;48;"Critico-outros creditos";"reforma";3578;"Desconhecido";">=7";4;"masculino solteiro";"nao";1;47;"nenhum";"propria";1;"qualificado";1;1;0;1
+"106";117;42;"existentes/pagos";"reforma";7174;"Desconhecido";"4<=X<7";4;"feminino div/dep/cas";"nao";3;30;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"107";118;10;"Critico-outros creditos";"moveis";2132;"Desconhecido";"<1";2;"feminino div/dep/cas";"co-participativo";3;27;"nenhum";"alugada";2;"qualificado";1;0;1;1
+"108";119;33;"Critico-outros creditos";"moveis";4281;"500<=X<1000";"1<=X<4";1;"feminino div/dep/cas";"nao";4;23;"nenhum";"propria";2;"qualificado";1;0;0;0
+"109";120;12;"Critico-outros creditos";"veiculo";2366;"500<=X<1000";"4<=X<7";3;"masculino div/dep";"nao";3;36;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"110";121;21;"existentes/pagos";"reforma";1835;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;25;"nenhum";"propria";2;"qualificado";1;1;0;0
+"111";122;24;"Critico-outros creditos";"veiculo";3868;"<100";">=7";4;"feminino div/dep/cas";"nao";2;41;"nenhum";"alugada";2;"altamente qualificado/empresario";1;1;0;1
+"112";123;12;"existentes/pagos";"moveis";1768;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;24;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"113";124;10;"Critico-outros creditos";"veiculo";781;"<100";">=7";4;"masculino solteiro";"nao";4;63;"nenhum";"gratuita";2;"qualificado";1;1;0;1
+"114";125;18;"existentes/pagos";"moveis";1924;"Desconhecido";"<1";4;"feminino div/dep/cas";"nao";3;27;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"115";126;12;"Critico-outros creditos";"veiculo";2121;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;30;"nenhum";"propria";2;"qualificado";1;0;0;1
+"116";127;12;"existentes/pagos";"reforma";701;"<100";"1<=X<4";4;"masculino cas/viu";"nao";2;40;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"117";128;12;"existentes/pagos";"reforma";639;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;30;"nenhum";"propria";1;"qualificado";1;0;0;0
+"118";129;12;"Critico-outros creditos";"veiculo";1860;"<100";"Desempregado";4;"masculino solteiro";"nao";2;34;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"119";130;12;"Critico-outros creditos";"veiculo";3499;"<100";"1<=X<4";3;"feminino div/dep/cas";"co-participativo";2;29;"nenhum";"propria";2;"qualificado";1;0;0;0
+"120";131;48;"existentes/pagos";"veiculo";8487;"Desconhecido";"4<=X<7";1;"feminino div/dep/cas";"nao";2;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"121";132;36;"Atrasos anteriores";"educacao";6887;"<100";"1<=X<4";4;"masculino solteiro";"nao";3;29;"loja";"propria";1;"qualificado";1;1;0;0
+"122";133;15;"existentes/pagos";"moveis";2708;"<100";"<1";2;"masculino solteiro";"nao";3;27;"banco";"propria";2;"nao qualificado";1;0;0;1
+"123";134;18;"existentes/pagos";"moveis";1984;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;47;"banco";"gratuita";2;"qualificado";1;0;0;1
+"124";135;60;"existentes/pagos";"reforma";10144;"100<=X<500";"4<=X<7";2;"feminino div/dep/cas";"nao";4;21;"nenhum";"propria";1;"qualificado";1;1;0;1
+"125";136;12;"Critico-outros creditos";"reforma";1240;"Desconhecido";">=7";4;"feminino div/dep/cas";"nao";2;38;"nenhum";"propria";2;"qualificado";1;1;0;1
+"126";137;27;"Atrasos anteriores";"veiculo";8613;">=1000";"1<=X<4";2;"masculino solteiro";"nao";2;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"127";138;12;"existentes/pagos";"reforma";766;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";3;66;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"128";139;15;"Critico-outros creditos";"reforma";2728;"Desconhecido";"4<=X<7";4;"masculino solteiro";"sim";2;35;"banco";"propria";3;"qualificado";1;1;0;1
+"129";140;12;"existentes/pagos";"reforma";1881;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;44;"nenhum";"alugada";1;"nao qualificado";1;1;0;1
+"130";141;6;"existentes/pagos";"veiculo";709;">=1000";"<1";2;"masculino cas/viu";"nao";2;27;"nenhum";"propria";1;"desempregado";1;0;1;1
+"131";142;36;"existentes/pagos";"reforma";4795;"<100";"<1";4;"feminino div/dep/cas";"nao";1;30;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"132";143;27;"existentes/pagos";"reforma";3416;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;27;"nenhum";"propria";1;"altamente qualificado/empresario";1;0;0;1
+"133";144;18;"existentes/pagos";"moveis";2462;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;22;"nenhum";"propria";1;"qualificado";1;0;0;0
+"134";146;48;"todos pagos";"abrir negocio";3566;"100<=X<500";"4<=X<7";4;"masculino solteiro";"nao";2;30;"nenhum";"propria";1;"qualificado";1;0;0;1
+"135";147;6;"Critico-outros creditos";"veiculo";860;"<100";">=7";1;"feminino div/dep/cas";"nao";4;39;"nenhum";"propria";2;"qualificado";1;1;0;1
+"136";148;12;"Critico-outros creditos";"veiculo";682;"100<=X<500";"4<=X<7";4;"feminino div/dep/cas";"nao";3;51;"nenhum";"propria";2;"qualificado";1;1;0;1
+"137";149;36;"Critico-outros creditos";"moveis";5371;"<100";"1<=X<4";3;"masculino solteiro";"sim";2;28;"nenhum";"propria";2;"qualificado";1;0;0;1
+"138";150;18;"Critico-outros creditos";"reforma";1582;">=1000";">=7";4;"masculino solteiro";"nao";4;46;"nenhum";"propria";2;"qualificado";1;0;0;1
+"139";151;6;"existentes/pagos";"reforma";1346;"100<=X<500";">=7";2;"masculino solteiro";"nao";4;42;"banco";"gratuita";1;"qualificado";2;1;0;1
+"140";152;10;"existentes/pagos";"reforma";1924;"<100";"1<=X<4";1;"masculino solteiro";"nao";4;38;"nenhum";"propria";1;"qualificado";1;1;1;1
+"141";153;36;"existentes/pagos";"reforma";5848;"<100";"1<=X<4";4;"masculino solteiro";"nao";1;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"142";154;24;"Critico-outros creditos";"veiculo";7758;">=1000";">=7";2;"feminino div/dep/cas";"nao";4;29;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"143";155;24;"Atrasos anteriores";"abrir negocio";6967;"100<=X<500";"4<=X<7";4;"masculino solteiro";"nao";4;36;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"144";156;12;"existentes/pagos";"moveis";1282;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";4;20;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"145";157;9;"Critico-outros creditos";"reforma";1288;"100<=X<500";">=7";3;"masculino solteiro";"sim";4;48;"nenhum";"propria";2;"qualificado";2;0;1;1
+"146";158;12;"todos pagos";"educacao";339;"<100";">=7";4;"masculino cas/viu";"nao";1;45;"banco";"propria";1;"nao qualificado";1;0;0;1
+"147";159;24;"existentes/pagos";"veiculo";3512;"100<=X<500";"4<=X<7";2;"masculino solteiro";"nao";3;38;"banco";"propria";2;"qualificado";1;1;0;1
+"148";160;6;"Critico-outros creditos";"reforma";1898;"Desconhecido";"1<=X<4";1;"masculino solteiro";"nao";2;34;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"149";161;24;"Critico-outros creditos";"reforma";2872;"100<=X<500";">=7";3;"masculino solteiro";"nao";4;36;"nenhum";"propria";1;"qualificado";2;1;0;1
+"150";162;18;"Critico-outros creditos";"veiculo";1055;"<100";"<1";4;"feminino div/dep/cas";"nao";1;30;"nenhum";"propria";2;"qualificado";1;0;0;1
+"151";163;15;"existentes/pagos";"outros";1262;"500<=X<1000";"4<=X<7";4;"masculino solteiro";"nao";3;36;"nenhum";"propria";2;"qualificado";1;1;0;1
+"152";164;10;"existentes/pagos";"veiculo";7308;"<100";"Desempregado";2;"masculino solteiro";"nao";4;70;"banco";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"153";165;36;"existentes/pagos";"veiculo";909;"500<=X<1000";">=7";4;"masculino solteiro";"nao";4;36;"nenhum";"propria";1;"qualificado";1;0;0;1
+"154";166;6;"existentes/pagos";"moveis";2978;"500<=X<1000";"1<=X<4";1;"masculino solteiro";"nao";2;32;"nenhum";"propria";1;"qualificado";1;1;0;1
+"155";167;18;"existentes/pagos";"moveis";1131;"<100";"Desempregado";4;"feminino div/dep/cas";"nao";2;33;"nenhum";"propria";1;"qualificado";1;0;0;0
+"156";168;11;"existentes/pagos";"moveis";1577;">=1000";"<1";4;"feminino div/dep/cas";"nao";1;20;"nenhum";"propria";1;"qualificado";1;0;0;1
+"157";170;24;"Critico-outros creditos";"abrir negocio";1935;"<100";">=7";4;"masculino div/dep";"nao";4;31;"nenhum";"propria";2;"qualificado";1;1;0;0
+"158";171;15;"sem creditos/todos pagos";"veiculo";950;"<100";">=7";4;"masculino solteiro";"nao";3;33;"nenhum";"alugada";2;"qualificado";2;0;0;0
+"159";172;12;"existentes/pagos";"moveis";763;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";1;26;"nenhum";"propria";1;"qualificado";1;1;0;1
+"160";173;24;"Atrasos anteriores";"moveis";2064;"<100";"Desempregado";3;"feminino div/dep/cas";"nao";2;34;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"161";175;21;"Atrasos anteriores";"educacao";3414;"<100";"<1";2;"masculino solteiro";"nao";1;26;"nenhum";"propria";2;"qualificado";1;0;0;0
+"162";176;30;"todos pagos";"veiculo";7485;"Desconhecido";"Desempregado";4;"feminino div/dep/cas";"nao";1;53;"banco";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"163";177;12;"existentes/pagos";"moveis";2577;"<100";"1<=X<4";2;"masculino div/dep";"nao";1;42;"nenhum";"propria";1;"qualificado";1;0;0;1
+"164";178;6;"Critico-outros creditos";"reforma";338;"500<=X<1000";">=7";4;"masculino solteiro";"nao";4;52;"nenhum";"propria";2;"qualificado";1;0;0;1
+"165";179;12;"existentes/pagos";"reforma";1963;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;31;"nenhum";"alugada";2;"altamente qualificado/empresario";2;1;0;1
+"166";180;21;"Critico-outros creditos";"veiculo";571;"<100";">=7";4;"masculino solteiro";"nao";4;65;"nenhum";"propria";2;"qualificado";1;0;0;1
+"167";181;36;"Atrasos anteriores";"abrir negocio";9572;"<100";"<1";1;"masculino div/dep";"nao";1;28;"nenhum";"propria";2;"qualificado";1;0;0;0
+"168";182;36;"Atrasos anteriores";"abrir negocio";4455;"<100";"1<=X<4";2;"masculino div/dep";"nao";2;30;"loja";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"169";183;21;"todos pagos";"veiculo";1647;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";2;40;"nenhum";"propria";2;"nao qualificado";2;0;0;0
+"170";184;24;"Critico-outros creditos";"moveis";3777;">=1000";"1<=X<4";4;"masculino solteiro";"nao";4;50;"nenhum";"propria";1;"qualificado";1;1;0;1
+"171";185;18;"Critico-outros creditos";"veiculo";884;"<100";">=7";4;"masculino solteiro";"nao";4;36;"banco";"propria";1;"qualificado";2;1;0;0
+"172";186;15;"Critico-outros creditos";"reforma";1360;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;31;"nenhum";"propria";2;"qualificado";1;0;0;1
+"173";187;9;"todos pagos";"veiculo";5129;"<100";">=7";2;"feminino div/dep/cas";"nao";4;74;"banco";"gratuita";1;"altamente qualificado/empresario";2;1;0;0
+"174";188;16;"Critico-outros creditos";"veiculo";1175;"<100";"Desempregado";2;"masculino solteiro";"nao";3;68;"nenhum";"gratuita";3;"desempregado";1;1;0;1
+"175";189;12;"existentes/pagos";"reforma";674;"100<=X<500";"4<=X<7";4;"masculino cas/viu";"nao";1;20;"nenhum";"propria";1;"qualificado";1;0;0;0
+"176";190;18;"sem creditos/todos pagos";"moveis";3244;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";4;33;"banco";"propria";2;"qualificado";1;1;0;1
+"177";191;24;"existentes/pagos";"abrir negocio";4591;">=1000";"1<=X<4";2;"masculino solteiro";"nao";3;54;"nenhum";"propria";3;"altamente qualificado/empresario";1;1;0;0
+"178";192;48;"sem creditos/todos pagos";"abrir negocio";3844;"100<=X<500";"4<=X<7";4;"masculino solteiro";"nao";4;34;"nenhum";"gratuita";1;"nao qualificado";2;0;0;0
+"179";193;27;"existentes/pagos";"abrir negocio";3915;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;36;"nenhum";"propria";1;"qualificado";2;1;0;0
+"180";194;6;"existentes/pagos";"reforma";2108;"<100";"4<=X<7";2;"masculino cas/viu";"nao";2;29;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"181";195;45;"existentes/pagos";"reforma";3031;"100<=X<500";"1<=X<4";4;"masculino solteiro";"sim";4;21;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"182";196;9;"Critico-outros creditos";"educacao";1501;"<100";">=7";2;"feminino div/dep/cas";"nao";3;34;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"183";197;6;"Critico-outros creditos";"reforma";1382;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";1;28;"nenhum";"propria";2;"qualificado";1;1;0;1
+"184";198;12;"existentes/pagos";"moveis";951;"100<=X<500";"<1";4;"feminino div/dep/cas";"nao";4;27;"banco";"alugada";4;"qualificado";1;0;0;0
+"185";201;9;"Critico-outros creditos";"educacao";936;"500<=X<1000";">=7";4;"masculino solteiro";"nao";2;52;"nenhum";"propria";2;"qualificado";1;1;0;1
+"186";202;12;"existentes/pagos";"veiculo";1168;"<100";"1<=X<4";4;"masculino cas/viu";"nao";3;27;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"187";203;27;"Atrasos anteriores";"abrir negocio";5117;"<100";"4<=X<7";3;"masculino solteiro";"nao";4;26;"nenhum";"propria";2;"qualificado";1;0;0;1
+"188";204;12;"existentes/pagos";"educacao";902;"<100";"4<=X<7";4;"masculino cas/viu";"nao";4;21;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"189";205;12;"Critico-outros creditos";"veiculo";1495;"<100";">=7";4;"masculino solteiro";"nao";1;38;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"190";206;30;"Critico-outros creditos";"veiculo";10623;"<100";">=7";3;"masculino solteiro";"nao";4;38;"nenhum";"gratuita";3;"altamente qualificado/empresario";2;1;0;1
+"191";207;12;"Critico-outros creditos";"moveis";1935;"<100";">=7";4;"masculino solteiro";"nao";4;43;"nenhum";"propria";3;"qualificado";1;1;0;1
+"192";208;12;"Critico-outros creditos";"outros";1424;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"193";209;24;"existentes/pagos";"abrir negocio";6568;"<100";"1<=X<4";2;"masculino cas/viu";"nao";2;21;"loja";"propria";1;"nao qualificado";1;0;0;1
+"194";210;12;"existentes/pagos";"veiculo";1413;">=1000";"4<=X<7";3;"masculino solteiro";"nao";2;55;"nenhum";"propria";1;"qualificado";1;0;1;1
+"195";211;9;"Critico-outros creditos";"reforma";3074;"Desconhecido";"1<=X<4";1;"masculino solteiro";"nao";2;33;"nenhum";"propria";2;"qualificado";2;0;0;1
+"196";212;36;"existentes/pagos";"reforma";3835;"Desconhecido";">=7";2;"feminino div/dep/cas";"nao";4;45;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"197";213;27;"sem creditos/todos pagos";"abrir negocio";5293;"<100";"Desempregado";2;"masculino solteiro";"nao";4;50;"loja";"propria";2;"qualificado";1;1;0;0
+"198";214;30;"Atrasos anteriores";"abrir negocio";1908;"<100";">=7";4;"masculino solteiro";"nao";4;66;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"199";215;36;"Critico-outros creditos";"reforma";3342;"Desconhecido";">=7";4;"masculino solteiro";"nao";2;51;"nenhum";"propria";1;"qualificado";1;1;0;1
+"200";216;6;"Critico-outros creditos";"educacao";932;"Desconhecido";"4<=X<7";1;"feminino div/dep/cas";"nao";3;39;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"201";217;18;"sem creditos/todos pagos";"abrir negocio";3104;"<100";"4<=X<7";3;"masculino solteiro";"nao";1;31;"banco";"propria";1;"qualificado";1;1;0;1
+"202";218;36;"existentes/pagos";"reforma";3913;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;23;"nenhum";"propria";1;"qualificado";1;1;0;1
+"203";219;24;"existentes/pagos";"moveis";3021;"<100";"1<=X<4";2;"masculino div/dep";"nao";2;24;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"204";220;10;"existentes/pagos";"veiculo";1364;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";4;64;"nenhum";"propria";1;"qualificado";1;1;0;1
+"205";221;12;"existentes/pagos";"reforma";625;"<100";"<1";4;"masculino cas/viu";"sim";1;26;"banco";"propria";1;"nao qualificado";1;0;0;1
+"206";222;12;"existentes/pagos";"educacao";1200;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";4;23;"banco";"alugada";1;"qualificado";1;1;0;1
+"207";223;12;"existentes/pagos";"reforma";707;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;30;"banco";"propria";2;"qualificado";1;0;0;1
+"208";224;24;"Atrasos anteriores";"abrir negocio";2978;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";4;32;"nenhum";"propria";2;"qualificado";2;1;0;1
+"209";225;15;"existentes/pagos";"veiculo";4657;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;30;"nenhum";"propria";1;"qualificado";1;1;0;1
+"210";226;36;"sem creditos/todos pagos";"reforma";2613;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"211";227;48;"existentes/pagos";"reforma";10961;">=1000";"4<=X<7";1;"masculino solteiro";"co-participativo";2;27;"banco";"propria";2;"qualificado";1;1;0;0
+"212";228;12;"existentes/pagos";"moveis";7865;"<100";">=7";4;"masculino solteiro";"nao";4;53;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"213";229;9;"existentes/pagos";"reforma";1478;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;22;"nenhum";"propria";1;"qualificado";1;0;0;0
+"214";230;24;"existentes/pagos";"moveis";3149;"<100";"<1";4;"masculino solteiro";"nao";1;22;"banco";"gratuita";1;"qualificado";1;0;0;1
+"215";231;36;"existentes/pagos";"reforma";4210;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;26;"nenhum";"propria";1;"qualificado";1;0;0;0
+"216";232;9;"existentes/pagos";"veiculo";2507;"500<=X<1000";">=7";2;"masculino solteiro";"nao";4;51;"nenhum";"gratuita";1;"nao qualificado";1;0;0;1
+"217";235;4;"Critico-outros creditos";"reforma";1544;"<100";"4<=X<7";2;"masculino solteiro";"nao";1;42;"nenhum";"propria";3;"nao qualificado";2;0;0;1
+"218";236;24;"existentes/pagos";"reforma";1823;"<100";"Desempregado";4;"masculino solteiro";"nao";2;30;"loja";"propria";1;"altamente qualificado/empresario";2;0;0;0
+"219";237;6;"existentes/pagos";"veiculo";14555;"Desconhecido";"Desempregado";1;"masculino solteiro";"nao";2;23;"nenhum";"propria";1;"desempregado";1;1;0;0
+"220";238;21;"existentes/pagos";"abrir negocio";2767;"100<=X<500";">=7";4;"masculino div/dep";"nao";2;61;"banco";"alugada";2;"nao qualificado";1;0;0;0
+"221";239;12;"Critico-outros creditos";"reforma";1291;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;35;"nenhum";"propria";2;"qualificado";1;0;0;1
+"222";240;30;"existentes/pagos";"reforma";2522;"<100";">=7";1;"masculino solteiro";"sim";3;39;"nenhum";"propria";1;"qualificado";2;0;0;1
+"223";241;24;"existentes/pagos";"veiculo";915;"Desconhecido";">=7";4;"feminino div/dep/cas";"nao";2;29;"banco";"propria";1;"qualificado";1;0;0;0
+"224";242;6;"existentes/pagos";"reforma";1595;"<100";"4<=X<7";3;"masculino solteiro";"nao";2;51;"nenhum";"propria";1;"qualificado";2;0;0;1
+"225";243;48;"sem creditos/todos pagos";"veiculo";4605;"<100";">=7";3;"masculino solteiro";"nao";4;24;"nenhum";"gratuita";2;"qualificado";2;0;0;0
+"226";244;12;"Critico-outros creditos";"abrir negocio";1185;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"227";245;12;"todos pagos";"educacao";3447;"500<=X<1000";"1<=X<4";4;"feminino div/dep/cas";"nao";3;35;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"228";246;24;"existentes/pagos";"abrir negocio";1258;"<100";"4<=X<7";4;"masculino solteiro";"nao";1;25;"nenhum";"propria";1;"qualificado";1;1;0;1
+"229";247;12;"Critico-outros creditos";"reforma";717;"<100";">=7";4;"masculino solteiro";"nao";4;52;"nenhum";"propria";3;"qualificado";1;0;0;1
+"230";248;6;"sem creditos/todos pagos";"veiculo";1204;"100<=X<500";"1<=X<4";4;"masculino solteiro";"nao";1;35;"banco";"alugada";1;"qualificado";1;0;1;1
+"231";249;24;"existentes/pagos";"moveis";1925;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"232";250;18;"existentes/pagos";"reforma";433;"<100";"Desempregado";3;"feminino div/dep/cas";"co-participativo";4;22;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"233";251;6;"Critico-outros creditos";"veiculo";666;">=1000";"4<=X<7";3;"feminino div/dep/cas";"nao";4;39;"nenhum";"propria";2;"nao qualificado";1;1;0;1
+"234";252;12;"existentes/pagos";"moveis";2251;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";2;46;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"235";253;30;"existentes/pagos";"veiculo";2150;"<100";"1<=X<4";4;"feminino div/dep/cas";"sim";2;24;"banco";"propria";1;"qualificado";1;0;0;0
+"236";254;24;"Atrasos anteriores";"moveis";4151;"100<=X<500";"1<=X<4";2;"masculino solteiro";"nao";3;35;"nenhum";"propria";2;"qualificado";1;0;0;1
+"237";255;9;"existentes/pagos";"moveis";2030;"Desconhecido";"4<=X<7";2;"masculino solteiro";"nao";1;24;"nenhum";"propria";1;"qualificado";1;1;0;1
+"238";256;60;"Atrasos anteriores";"reforma";7418;"Desconhecido";"1<=X<4";1;"masculino solteiro";"nao";1;27;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"239";257;24;"Critico-outros creditos";"reforma";2684;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;35;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"240";258;12;"todos pagos";"reforma";2149;"<100";"1<=X<4";4;"masculino div/dep";"nao";1;29;"nenhum";"gratuita";1;"qualificado";1;0;0;0
+"241";259;15;"existentes/pagos";"veiculo";3812;"100<=X<500";"<1";1;"feminino div/dep/cas";"nao";4;23;"nenhum";"propria";1;"qualificado";1;1;0;1
+"242";260;11;"Critico-outros creditos";"reforma";1154;"100<=X<500";"Desempregado";4;"feminino div/dep/cas";"nao";4;57;"nenhum";"propria";3;"nao qualificado";1;0;0;1
+"243";261;12;"existentes/pagos";"moveis";1657;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;27;"nenhum";"propria";1;"qualificado";1;0;0;1
+"244";262;24;"existentes/pagos";"reforma";1603;"<100";">=7";4;"feminino div/dep/cas";"nao";4;55;"nenhum";"propria";1;"qualificado";1;0;0;1
+"245";263;18;"Critico-outros creditos";"veiculo";5302;"<100";">=7";2;"masculino solteiro";"nao";4;36;"nenhum";"gratuita";3;"altamente qualificado/empresario";1;1;0;1
+"246";264;12;"Critico-outros creditos";"educacao";2748;"<100";">=7";2;"feminino div/dep/cas";"nao";4;57;"banco";"gratuita";3;"nao qualificado";1;0;0;1
+"247";265;10;"Critico-outros creditos";"veiculo";1231;"<100";">=7";3;"masculino solteiro";"nao";4;32;"nenhum";"propria";2;"nao qualificado";2;0;1;1
+"248";266;15;"existentes/pagos";"reforma";802;"<100";">=7";4;"masculino solteiro";"nao";3;37;"nenhum";"propria";1;"qualificado";2;0;0;0
+"249";267;36;"Critico-outros creditos";"abrir negocio";6304;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;36;"nenhum";"propria";2;"qualificado";1;0;0;1
+"250";268;24;"existentes/pagos";"reforma";1533;"<100";"<1";4;"feminino div/dep/cas";"nao";3;38;"loja";"propria";1;"qualificado";1;1;0;1
+"251";269;14;"existentes/pagos";"veiculo";8978;"<100";">=7";1;"masculino div/dep";"nao";4;45;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;1;0
+"252";271;18;"existentes/pagos";"veiculo";2662;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";3;32;"nenhum";"propria";1;"qualificado";1;0;1;1
+"253";272;12;"Critico-outros creditos";"moveis";1402;"500<=X<1000";"4<=X<7";3;"feminino div/dep/cas";"nao";4;37;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"254";273;48;"todos pagos";"veiculo";12169;"Desconhecido";"Desempregado";4;"masculino solteiro";"co-participativo";4;36;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"255";274;48;"existentes/pagos";"reforma";3060;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;28;"nenhum";"propria";2;"qualificado";1;0;0;0
+"256";275;30;"existentes/pagos";"reforma";11998;"<100";"<1";1;"masculino div/dep";"nao";1;34;"nenhum";"propria";1;"nao qualificado";1;1;0;0
+"257";276;9;"existentes/pagos";"reforma";2697;"<100";"1<=X<4";1;"masculino solteiro";"nao";2;32;"nenhum";"propria";1;"qualificado";2;0;0;1
+"258";277;18;"Critico-outros creditos";"reforma";2404;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;26;"nenhum";"propria";2;"qualificado";1;0;0;1
+"259";278;12;"existentes/pagos";"moveis";1262;"Desconhecido";">=7";2;"masculino div/dep";"nao";4;49;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"260";279;6;"existentes/pagos";"moveis";4611;"<100";"<1";1;"feminino div/dep/cas";"nao";4;32;"nenhum";"propria";1;"qualificado";1;0;0;0
+"261";280;24;"existentes/pagos";"reforma";1901;"100<=X<500";"1<=X<4";4;"masculino solteiro";"nao";4;29;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"262";281;15;"Critico-outros creditos";"veiculo";3368;">=1000";">=7";3;"masculino solteiro";"nao";4;23;"nenhum";"alugada";2;"qualificado";1;1;0;1
+"263";282;12;"existentes/pagos";"moveis";1574;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;50;"nenhum";"propria";1;"qualificado";1;0;0;1
+"264";283;18;"todos pagos";"reforma";1445;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";4;49;"banco";"propria";1;"nao qualificado";1;0;0;1
+"265";284;15;"Critico-outros creditos";"moveis";1520;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;63;"nenhum";"propria";1;"qualificado";1;0;0;1
+"266";285;24;"Critico-outros creditos";"veiculo";3878;"100<=X<500";"<1";4;"masculino div/dep";"nao";2;37;"nenhum";"propria";1;"qualificado";1;1;0;1
+"267";286;47;"existentes/pagos";"veiculo";10722;"<100";"<1";1;"feminino div/dep/cas";"nao";1;35;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"268";287;48;"existentes/pagos";"veiculo";4788;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;26;"nenhum";"propria";1;"qualificado";2;0;0;1
+"269";288;48;"Atrasos anteriores";"outros";7582;"100<=X<500";"Desempregado";2;"masculino solteiro";"nao";4;31;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"270";289;12;"existentes/pagos";"reforma";1092;"<100";"1<=X<4";4;"feminino div/dep/cas";"sim";4;49;"nenhum";"propria";2;"qualificado";1;1;0;1
+"271";290;24;"Atrasos anteriores";"reforma";1024;"<100";"<1";4;"masculino cas/viu";"nao";4;48;"loja";"propria";1;"qualificado";1;0;0;0
+"272";291;12;"existentes/pagos";"abrir negocio";1076;"<100";"1<=X<4";2;"masculino cas/viu";"nao";2;26;"nenhum";"propria";1;"qualificado";1;1;1;1
+"273";292;36;"existentes/pagos";"veiculo";9398;"<100";"<1";1;"masculino cas/viu";"nao";4;28;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;0
+"274";293;24;"Critico-outros creditos";"veiculo";6419;"<100";">=7";2;"feminino div/dep/cas";"nao";4;44;"nenhum";"gratuita";2;"altamente qualificado/empresario";2;1;0;1
+"275";294;42;"Critico-outros creditos";"veiculo";4796;"<100";">=7";4;"masculino solteiro";"nao";4;56;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"276";295;48;"Critico-outros creditos";"abrir negocio";7629;"Desconhecido";">=7";4;"masculino div/dep";"nao";2;46;"banco";"propria";2;"altamente qualificado/empresario";2;0;0;1
+"277";296;48;"existentes/pagos";"moveis";9960;"<100";"<1";1;"feminino div/dep/cas";"nao";2;26;"nenhum";"propria";1;"qualificado";1;1;0;0
+"278";297;12;"existentes/pagos";"veiculo";4675;"Desconhecido";"<1";1;"feminino div/dep/cas";"nao";4;20;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"279";298;10;"existentes/pagos";"veiculo";1287;"Desconhecido";">=7";4;"masculino solteiro";"co-participativo";2;45;"nenhum";"propria";1;"nao qualificado";1;0;1;1
+"280";299;18;"existentes/pagos";"moveis";2515;"<100";"1<=X<4";3;"masculino solteiro";"nao";4;43;"nenhum";"propria";1;"qualificado";1;1;0;1
+"281";300;21;"Critico-outros creditos";"moveis";2745;">=1000";"4<=X<7";3;"masculino solteiro";"nao";2;32;"nenhum";"propria";2;"qualificado";1;1;0;1
+"282";301;6;"existentes/pagos";"veiculo";672;"<100";"Desempregado";1;"feminino div/dep/cas";"nao";4;54;"nenhum";"propria";1;"desempregado";1;1;0;1
+"283";302;36;"sem creditos/todos pagos";"reforma";3804;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";1;42;"nenhum";"propria";1;"qualificado";1;1;0;0
+"284";303;24;"Critico-outros creditos";"veiculo";1344;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";2;37;"banco";"propria";2;"nao qualificado";2;0;0;0
+"285";304;10;"Critico-outros creditos";"veiculo";1038;"<100";"4<=X<7";4;"masculino solteiro";"co-participativo";3;49;"nenhum";"propria";2;"qualificado";1;1;0;1
+"286";305;48;"Critico-outros creditos";"veiculo";10127;"500<=X<1000";"1<=X<4";2;"masculino solteiro";"nao";2;44;"banco";"gratuita";1;"qualificado";1;0;0;0
+"287";306;6;"existentes/pagos";"moveis";1543;">=1000";"1<=X<4";4;"masculino div/dep";"nao";2;33;"nenhum";"propria";1;"qualificado";1;0;0;1
+"288";307;30;"existentes/pagos";"veiculo";4811;"Desconhecido";"4<=X<7";2;"feminino div/dep/cas";"nao";4;24;"loja";"alugada";1;"nao qualificado";1;0;0;1
+"289";308;12;"existentes/pagos";"reforma";727;"100<=X<500";"<1";4;"masculino cas/viu";"nao";3;33;"nenhum";"propria";1;"nao qualificado";1;1;0;0
+"290";309;8;"existentes/pagos";"moveis";1237;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";4;24;"nenhum";"propria";1;"qualificado";1;0;0;0
+"291";310;9;"existentes/pagos";"veiculo";276;"<100";"1<=X<4";4;"masculino cas/viu";"nao";4;22;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"292";311;48;"existentes/pagos";"outros";5381;"Desconhecido";"Desempregado";3;"masculino solteiro";"nao";4;40;"banco";"gratuita";1;"desempregado";1;1;0;1
+"293";312;24;"existentes/pagos";"moveis";5511;"100<=X<500";"1<=X<4";4;"masculino solteiro";"nao";1;25;"loja";"propria";1;"qualificado";1;0;0;1
+"294";313;24;"existentes/pagos";"moveis";3749;"<100";"<1";2;"feminino div/dep/cas";"nao";4;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"295";314;12;"existentes/pagos";"veiculo";685;"<100";"4<=X<7";2;"masculino cas/viu";"nao";3;25;"banco";"propria";1;"nao qualificado";1;0;0;0
+"296";315;4;"existentes/pagos";"veiculo";1494;"Desconhecido";"<1";1;"masculino solteiro";"nao";2;29;"nenhum";"propria";1;"nao qualificado";2;0;1;1
+"297";316;36;"todos pagos";"moveis";2746;"<100";">=7";4;"masculino solteiro";"nao";4;31;"banco";"propria";1;"qualificado";1;0;0;0
+"298";317;12;"existentes/pagos";"moveis";708;"<100";"1<=X<4";2;"masculino solteiro";"sim";3;38;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"299";318;24;"existentes/pagos";"moveis";4351;"Desconhecido";"1<=X<4";1;"feminino div/dep/cas";"nao";4;48;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"300";319;12;"Critico-outros creditos";"educacao";701;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;32;"nenhum";"propria";2;"qualificado";1;0;0;1
+"301";320;15;"Atrasos anteriores";"moveis";3643;"<100";">=7";1;"feminino div/dep/cas";"nao";4;27;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"302";321;30;"Critico-outros creditos";"veiculo";4249;"<100";"Desempregado";4;"masculino cas/viu";"nao";2;28;"nenhum";"propria";2;"altamente qualificado/empresario";1;0;0;0
+"303";322;24;"existentes/pagos";"reforma";1938;"<100";"<1";4;"masculino div/dep";"nao";3;32;"nenhum";"propria";1;"qualificado";1;0;0;0
+"304";323;24;"existentes/pagos";"veiculo";2910;"<100";"4<=X<7";2;"masculino solteiro";"nao";1;34;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"305";324;18;"existentes/pagos";"moveis";2659;">=1000";"1<=X<4";4;"masculino solteiro";"nao";2;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"306";325;18;"Critico-outros creditos";"veiculo";1028;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";3;36;"nenhum";"propria";2;"qualificado";1;0;0;1
+"307";326;8;"Critico-outros creditos";"veiculo";3398;"<100";"4<=X<7";1;"masculino solteiro";"nao";4;39;"nenhum";"propria";2;"nao qualificado";1;0;1;1
+"308";327;12;"Critico-outros creditos";"moveis";5801;"Desconhecido";">=7";2;"masculino solteiro";"nao";4;49;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"309";328;24;"existentes/pagos";"veiculo";1525;">=1000";"4<=X<7";4;"feminino div/dep/cas";"nao";3;34;"nenhum";"propria";1;"qualificado";2;1;0;1
+"310";329;36;"existentes/pagos";"reforma";4473;"<100";">=7";4;"masculino solteiro";"nao";2;31;"nenhum";"propria";1;"qualificado";1;0;0;1
+"311";330;6;"existentes/pagos";"reforma";1068;"<100";">=7";4;"masculino solteiro";"nao";4;28;"nenhum";"propria";1;"qualificado";2;0;0;1
+"312";331;24;"Critico-outros creditos";"veiculo";6615;"<100";"Desempregado";2;"masculino solteiro";"nao";4;75;"nenhum";"gratuita";2;"altamente qualificado/empresario";1;1;0;1
+"313";332;18;"Critico-outros creditos";"educacao";1864;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"nao";2;30;"nenhum";"propria";2;"qualificado";1;0;0;0
+"314";333;60;"existentes/pagos";"veiculo";7408;"100<=X<500";"<1";4;"feminino div/dep/cas";"nao";2;24;"nenhum";"propria";1;"altamente qualificado/empresario";1;0;0;0
+"315";334;48;"Critico-outros creditos";"veiculo";11590;"100<=X<500";"1<=X<4";2;"feminino div/dep/cas";"nao";4;24;"banco";"alugada";2;"nao qualificado";1;0;0;0
+"316";335;24;"sem creditos/todos pagos";"moveis";4110;"<100";">=7";3;"masculino solteiro";"nao";4;23;"banco";"alugada";2;"qualificado";2;0;0;0
+"317";336;6;"Critico-outros creditos";"moveis";3384;"<100";"1<=X<4";1;"masculino div/dep";"nao";4;44;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;0
+"318";337;13;"existentes/pagos";"reforma";2101;"<100";"<1";2;"feminino div/dep/cas";"sim";4;23;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"319";338;15;"existentes/pagos";"outros";1275;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";2;24;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"320";339;24;"existentes/pagos";"moveis";4169;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"321";340;10;"existentes/pagos";"moveis";1521;"<100";"1<=X<4";4;"masculino div/dep";"nao";2;31;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"322";341;24;"Critico-outros creditos";"educacao";5743;"<100";"<1";2;"feminino div/dep/cas";"nao";4;24;"nenhum";"gratuita";2;"qualificado";1;1;0;1
+"323";342;21;"existentes/pagos";"moveis";3599;"<100";"4<=X<7";1;"feminino div/dep/cas";"nao";4;26;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"324";343;18;"existentes/pagos";"reforma";3213;"500<=X<1000";"<1";1;"masculino cas/viu";"nao";3;25;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"325";344;18;"existentes/pagos";"abrir negocio";4439;"<100";">=7";1;"masculino solteiro";"co-participativo";1;33;"banco";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"326";345;10;"existentes/pagos";"veiculo";3949;"<100";"<1";1;"masculino solteiro";"sim";1;37;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"327";346;15;"Critico-outros creditos";"reforma";1459;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;43;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"328";347;13;"Critico-outros creditos";"reforma";882;"<100";"<1";4;"masculino solteiro";"sim";4;23;"nenhum";"propria";2;"qualificado";1;0;0;1
+"329";348;24;"existentes/pagos";"reforma";3758;"500<=X<1000";"Desempregado";1;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"desempregado";1;0;0;1
+"330";349;6;"Atrasos anteriores";"abrir negocio";1743;"100<=X<500";"1<=X<4";1;"masculino solteiro";"nao";2;34;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"331";351;9;"existentes/pagos";"outros";1236;"<100";"<1";1;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"332";352;9;"existentes/pagos";"moveis";959;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";2;29;"nenhum";"propria";1;"qualificado";1;0;1;0
+"333";353;18;"Critico-outros creditos";"veiculo";3229;"Desconhecido";"Desempregado";2;"masculino solteiro";"nao";4;38;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"334";354;12;"sem creditos/todos pagos";"reforma";6199;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;28;"nenhum";"alugada";2;"qualificado";1;1;0;0
+"335";355;10;"existentes/pagos";"educacao";727;"500<=X<1000";">=7";4;"masculino solteiro";"nao";4;46;"nenhum";"gratuita";1;"qualificado";1;1;0;1
+"336";357;12;"Critico-outros creditos";"reforma";2331;"Desconhecido";">=7";1;"masculino solteiro";"co-participativo";4;49;"nenhum";"propria";1;"qualificado";1;1;0;1
+"337";358;36;"Atrasos anteriores";"reforma";4463;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;26;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"338";359;12;"existentes/pagos";"reforma";776;"<100";"1<=X<4";4;"masculino cas/viu";"nao";2;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"339";360;30;"existentes/pagos";"moveis";2406;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"340";361;18;"existentes/pagos";"educacao";1239;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";4;61;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"341";362;12;"existentes/pagos";"reforma";3399;"Desconhecido";">=7";2;"masculino solteiro";"nao";3;37;"nenhum";"propria";1;"altamente qualificado/empresario";1;0;0;1
+"342";363;12;"Atrasos anteriores";"veiculo";2247;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;36;"loja";"propria";2;"qualificado";1;1;0;1
+"343";364;6;"existentes/pagos";"moveis";1766;"<100";"1<=X<4";1;"masculino cas/viu";"nao";2;21;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"344";365;18;"existentes/pagos";"moveis";2473;"<100";"Desempregado";4;"masculino solteiro";"nao";1;25;"nenhum";"propria";1;"desempregado";1;0;0;0
+"345";366;12;"existentes/pagos";"abrir negocio";1542;"<100";"4<=X<7";2;"masculino solteiro";"nao";4;36;"nenhum";"propria";1;"qualificado";1;1;0;1
+"346";367;18;"Critico-outros creditos";"veiculo";3850;"<100";"4<=X<7";3;"masculino solteiro";"nao";1;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"347";368;18;"existentes/pagos";"moveis";3650;"<100";"<1";1;"feminino div/dep/cas";"nao";4;22;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"348";369;36;"existentes/pagos";"moveis";3446;"<100";">=7";4;"masculino solteiro";"nao";2;42;"nenhum";"propria";1;"qualificado";2;0;0;0
+"349";370;18;"existentes/pagos";"moveis";3001;"<100";"4<=X<7";2;"feminino div/dep/cas";"nao";4;40;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"350";371;36;"existentes/pagos";"veiculo";3079;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";4;36;"nenhum";"propria";1;"qualificado";1;0;0;1
+"351";372;18;"Critico-outros creditos";"reforma";6070;"<100";">=7";3;"masculino solteiro";"nao";4;33;"nenhum";"propria";2;"qualificado";1;1;0;1
+"352";373;10;"Critico-outros creditos";"moveis";2146;"<100";"<1";1;"feminino div/dep/cas";"nao";3;23;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"353";374;60;"Critico-outros creditos";"veiculo";13756;"Desconhecido";">=7";2;"masculino solteiro";"nao";4;63;"banco";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"354";375;60;"todos pagos";"outros";14782;"100<=X<500";">=7";3;"feminino div/dep/cas";"nao";4;60;"banco";"gratuita";2;"altamente qualificado/empresario";1;1;0;0
+"355";376;48;"todos pagos";"abrir negocio";7685;"<100";"4<=X<7";2;"feminino div/dep/cas";"sim";4;37;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"356";377;18;"Atrasos anteriores";"reforma";2320;"<100";"Desempregado";2;"masculino cas/viu";"nao";3;34;"nenhum";"propria";2;"qualificado";1;0;0;1
+"357";378;7;"Atrasos anteriores";"reforma";846;"Desconhecido";">=7";3;"masculino solteiro";"nao";4;36;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"358";379;36;"existentes/pagos";"veiculo";14318;"<100";">=7";4;"masculino solteiro";"nao";2;57;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"359";380;6;"Critico-outros creditos";"veiculo";362;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"nao";4;52;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"360";381;20;"existentes/pagos";"moveis";2212;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";4;39;"nenhum";"propria";1;"qualificado";1;1;0;1
+"361";382;18;"existentes/pagos";"veiculo";12976;"<100";"Desempregado";3;"feminino div/dep/cas";"nao";4;38;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"362";383;22;"existentes/pagos";"veiculo";1283;"Desconhecido";"4<=X<7";4;"feminino div/dep/cas";"nao";4;25;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"363";384;12;"existentes/pagos";"veiculo";1330;"<100";"<1";4;"masculino solteiro";"nao";1;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"364";385;30;"Atrasos anteriores";"abrir negocio";4272;"100<=X<500";"1<=X<4";2;"masculino solteiro";"nao";2;26;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"365";386;18;"Critico-outros creditos";"reforma";2238;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";1;25;"nenhum";"propria";2;"qualificado";1;0;0;1
+"366";387;18;"existentes/pagos";"reforma";1126;"Desconhecido";"<1";4;"feminino div/dep/cas";"nao";2;21;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"367";388;18;"Critico-outros creditos";"moveis";7374;"<100";"Desempregado";4;"masculino solteiro";"nao";4;40;"loja";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"368";389;15;"Critico-outros creditos";"abrir negocio";2326;"500<=X<1000";"1<=X<4";2;"masculino solteiro";"nao";4;27;"banco";"propria";1;"qualificado";1;0;0;1
+"369";390;9;"existentes/pagos";"abrir negocio";1449;"<100";"4<=X<7";3;"feminino div/dep/cas";"nao";2;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"370";391;18;"existentes/pagos";"veiculo";1820;"<100";"1<=X<4";2;"masculino cas/viu";"nao";2;30;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"371";392;12;"existentes/pagos";"moveis";983;">=1000";"<1";1;"feminino div/dep/cas";"nao";4;19;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"372";393;36;"existentes/pagos";"veiculo";3249;"<100";"4<=X<7";2;"masculino solteiro";"nao";4;39;"banco";"gratuita";1;"altamente qualificado/empresario";2;1;0;1
+"373";394;6;"Critico-outros creditos";"reforma";1957;"<100";"4<=X<7";1;"feminino div/dep/cas";"nao";4;31;"nenhum";"propria";1;"qualificado";1;0;0;1
+"374";397;12;"existentes/pagos";"moveis";2578;"<100";"Desempregado";3;"feminino div/dep/cas";"nao";4;55;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;0;0;1
+"375";398;36;"Critico-outros creditos";"moveis";2348;"<100";"1<=X<4";3;"masculino cas/viu";"nao";2;46;"nenhum";"propria";2;"qualificado";1;1;0;1
+"376";399;12;"existentes/pagos";"veiculo";1223;"<100";">=7";1;"masculino div/dep";"nao";1;46;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"377";400;24;"Critico-outros creditos";"reforma";1516;">=1000";"1<=X<4";4;"feminino div/dep/cas";"nao";1;43;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"378";401;18;"existentes/pagos";"reforma";1473;"<100";"<1";3;"masculino cas/viu";"nao";4;39;"nenhum";"propria";1;"qualificado";1;1;0;1
+"379";402;18;"Critico-outros creditos";"abrir negocio";1887;"Desconhecido";"1<=X<4";4;"masculino cas/viu";"nao";4;28;"banco";"propria";2;"qualificado";1;0;0;1
+"380";403;24;"Atrasos anteriores";"abrir negocio";8648;"<100";"<1";2;"masculino solteiro";"nao";2;27;"banco";"propria";2;"qualificado";1;1;0;0
+"381";404;14;"Atrasos anteriores";"veiculo";802;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;27;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"382";405;18;"Atrasos anteriores";"veiculo";2899;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;43;"nenhum";"propria";1;"qualificado";2;0;0;1
+"383";406;24;"existentes/pagos";"reforma";2039;"<100";"<1";1;"masculino cas/viu";"nao";1;22;"nenhum";"propria";1;"qualificado";1;1;0;0
+"384";407;24;"Critico-outros creditos";"veiculo";2197;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";4;43;"nenhum";"propria";2;"qualificado";2;1;0;1
+"385";408;15;"existentes/pagos";"reforma";1053;"<100";"<1";4;"masculino cas/viu";"nao";2;27;"nenhum";"propria";1;"qualificado";1;0;1;1
+"386";409;24;"existentes/pagos";"reforma";3235;"500<=X<1000";">=7";3;"masculino div/dep";"nao";2;26;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"387";410;12;"Critico-outros creditos";"veiculo";939;"500<=X<1000";"4<=X<7";4;"masculino cas/viu";"nao";2;28;"nenhum";"propria";3;"qualificado";1;1;0;0
+"388";411;24;"existentes/pagos";"reforma";1967;"<100";">=7";4;"feminino div/dep/cas";"nao";4;20;"nenhum";"propria";1;"qualificado";1;1;0;1
+"389";413;12;"Critico-outros creditos";"abrir negocio";2292;"<100";"Desempregado";4;"masculino solteiro";"nao";2;42;"loja";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"390";414;10;"existentes/pagos";"veiculo";1597;"500<=X<1000";"1<=X<4";3;"masculino solteiro";"nao";2;40;"nenhum";"alugada";1;"nao qualificado";2;0;1;1
+"391";415;24;"existentes/pagos";"veiculo";1381;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";2;35;"nenhum";"propria";1;"qualificado";1;0;0;0
+"392";416;36;"Critico-outros creditos";"veiculo";5842;"<100";">=7";2;"masculino solteiro";"nao";2;35;"nenhum";"propria";2;"qualificado";2;1;0;1
+"393";417;12;"existentes/pagos";"veiculo";2579;"<100";"<1";4;"masculino solteiro";"nao";1;33;"nenhum";"propria";1;"nao qualificado";2;0;0;0
+"394";418;18;"Atrasos anteriores";"educacao";8471;"Desconhecido";"1<=X<4";1;"feminino div/dep/cas";"nao";2;23;"nenhum";"alugada";2;"qualificado";1;1;0;1
+"395";419;21;"existentes/pagos";"veiculo";2782;"500<=X<1000";"4<=X<7";1;"feminino div/dep/cas";"nao";2;31;"banco";"propria";1;"altamente qualificado/empresario";1;0;0;1
+"396";420;18;"existentes/pagos";"veiculo";1042;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";2;33;"nenhum";"propria";1;"qualificado";1;0;0;0
+"397";421;15;"existentes/pagos";"veiculo";3186;">=1000";"4<=X<7";2;"feminino div/dep/cas";"nao";3;20;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"398";422;12;"existentes/pagos";"veiculo";2028;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";2;30;"nenhum";"propria";1;"qualificado";1;0;0;1
+"399";423;12;"Critico-outros creditos";"veiculo";958;"<100";"4<=X<7";2;"masculino solteiro";"nao";3;47;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"400";424;21;"Atrasos anteriores";"moveis";1591;"100<=X<500";"4<=X<7";4;"masculino solteiro";"nao";3;34;"nenhum";"propria";2;"altamente qualificado/empresario";1;0;0;1
+"401";425;12;"existentes/pagos";"moveis";2762;"Desconhecido";">=7";1;"feminino div/dep/cas";"nao";2;25;"banco";"propria";1;"qualificado";1;1;0;0
+"402";426;18;"existentes/pagos";"veiculo";2779;"<100";"1<=X<4";1;"masculino cas/viu";"nao";3;21;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"403";427;28;"Critico-outros creditos";"reforma";2743;"<100";">=7";4;"masculino solteiro";"nao";2;29;"nenhum";"propria";2;"qualificado";1;0;0;1
+"404";428;18;"Critico-outros creditos";"reforma";1149;">=1000";"1<=X<4";4;"masculino solteiro";"nao";3;46;"nenhum";"propria";2;"qualificado";1;0;0;1
+"405";429;9;"existentes/pagos";"moveis";1313;"<100";">=7";1;"masculino solteiro";"nao";4;20;"nenhum";"propria";1;"qualificado";1;0;0;1
+"406";430;18;"Critico-outros creditos";"reforma";1190;"<100";"Desempregado";2;"feminino div/dep/cas";"nao";4;55;"nenhum";"gratuita";3;"desempregado";2;0;0;0
+"407";431;5;"existentes/pagos";"abrir negocio";3448;"<100";"4<=X<7";1;"masculino solteiro";"nao";4;74;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"408";432;24;"existentes/pagos";"outros";11328;"<100";"1<=X<4";2;"masculino solteiro";"co-participativo";3;29;"banco";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"409";433;6;"Critico-outros creditos";"moveis";1872;"<100";"Desempregado";4;"masculino solteiro";"nao";4;36;"nenhum";"gratuita";3;"altamente qualificado/empresario";1;1;0;1
+"410";434;24;"Critico-outros creditos";"reforma";2058;"<100";"1<=X<4";4;"masculino div/dep";"nao";2;33;"nenhum";"propria";2;"qualificado";1;1;0;1
+"411";435;9;"existentes/pagos";"moveis";2136;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;25;"nenhum";"propria";1;"qualificado";1;0;0;1
+"412";436;12;"existentes/pagos";"reforma";1484;"Desconhecido";"1<=X<4";2;"masculino cas/viu";"nao";1;25;"nenhum";"propria";1;"qualificado";1;1;0;0
+"413";437;6;"existentes/pagos";"reforma";660;"500<=X<1000";"4<=X<7";2;"masculino cas/viu";"nao";4;23;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"414";438;24;"Critico-outros creditos";"veiculo";1287;">=1000";">=7";4;"feminino div/dep/cas";"nao";4;37;"nenhum";"propria";2;"qualificado";1;1;0;1
+"415";439;42;"Critico-outros creditos";"reforma";3394;"<100";"Desempregado";4;"masculino solteiro";"co-participativo";4;65;"nenhum";"propria";2;"desempregado";1;0;0;1
+"416";440;12;"todos pagos";"abrir negocio";609;"<100";"<1";4;"feminino div/dep/cas";"nao";1;26;"nenhum";"propria";1;"desempregado";1;0;0;0
+"417";441;12;"existentes/pagos";"veiculo";1884;"<100";">=7";4;"masculino solteiro";"nao";4;39;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"418";442;12;"existentes/pagos";"moveis";1620;"<100";"1<=X<4";2;"feminino div/dep/cas";"co-participativo";3;30;"nenhum";"propria";1;"qualificado";1;0;0;1
+"419";443;20;"Atrasos anteriores";"outros";2629;"<100";"1<=X<4";2;"masculino solteiro";"nao";3;29;"banco";"propria";2;"qualificado";1;1;0;1
+"420";444;12;"existentes/pagos";"educacao";719;"<100";">=7";4;"masculino solteiro";"nao";4;41;"banco";"propria";1;"nao qualificado";2;0;0;0
+"421";445;48;"Critico-outros creditos";"moveis";5096;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";3;30;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"422";446;9;"Critico-outros creditos";"educacao";1244;"Desconhecido";">=7";4;"feminino div/dep/cas";"nao";4;41;"nenhum";"alugada";2;"nao qualificado";1;0;0;1
+"423";447;36;"existentes/pagos";"veiculo";1842;"<100";"<1";4;"feminino div/dep/cas";"nao";4;34;"nenhum";"propria";1;"qualificado";1;1;0;0
+"424";448;7;"existentes/pagos";"reforma";2576;"<100";"1<=X<4";2;"masculino solteiro";"sim";2;35;"nenhum";"propria";1;"qualificado";1;0;0;1
+"425";449;12;"existentes/pagos";"moveis";1424;"Desconhecido";">=7";3;"feminino div/dep/cas";"nao";4;55;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"426";450;15;"Atrasos anteriores";"reforma";1512;">=1000";"1<=X<4";3;"masculino cas/viu";"nao";3;61;"loja";"propria";2;"qualificado";1;0;0;0
+"427";451;36;"Critico-outros creditos";"veiculo";11054;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";2;30;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"428";452;6;"existentes/pagos";"reforma";518;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";1;29;"nenhum";"propria";1;"qualificado";1;0;0;1
+"429";453;12;"sem creditos/todos pagos";"moveis";2759;"<100";">=7";2;"masculino solteiro";"nao";4;34;"nenhum";"propria";2;"qualificado";1;0;0;1
+"430";454;24;"existentes/pagos";"veiculo";2670;"<100";">=7";4;"masculino solteiro";"nao";4;35;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"431";455;24;"existentes/pagos";"veiculo";4817;"<100";"4<=X<7";2;"masculino solteiro";"co-participativo";3;31;"nenhum";"propria";1;"qualificado";1;1;0;0
+"432";456;24;"existentes/pagos";"veiculo";2679;"<100";"<1";4;"feminino div/dep/cas";"nao";1;29;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"433";457;11;"Critico-outros creditos";"veiculo";3905;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;36;"nenhum";"alugada";2;"qualificado";2;0;0;1
+"434";458;12;"existentes/pagos";"veiculo";3386;"<100";">=7";3;"masculino solteiro";"nao";4;35;"nenhum";"gratuita";1;"qualificado";1;1;0;0
+"435";459;6;"existentes/pagos";"outros";343;"<100";"<1";4;"feminino div/dep/cas";"nao";1;27;"nenhum";"propria";1;"qualificado";1;0;0;1
+"436";460;18;"existentes/pagos";"reforma";4594;"<100";"<1";3;"masculino solteiro";"nao";2;32;"nenhum";"propria";1;"qualificado";1;1;0;1
+"437";461;36;"existentes/pagos";"moveis";3620;"<100";"1<=X<4";1;"masculino solteiro";"sim";2;37;"nenhum";"propria";1;"qualificado";2;0;0;1
+"438";462;15;"existentes/pagos";"veiculo";1721;"<100";"<1";2;"masculino solteiro";"nao";3;36;"nenhum";"propria";1;"qualificado";1;0;0;1
+"439";463;12;"existentes/pagos";"moveis";3017;"<100";"<1";3;"feminino div/dep/cas";"nao";1;34;"nenhum";"alugada";1;"altamente qualificado/empresario";1;0;0;1
+"440";464;12;"existentes/pagos";"educacao";754;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;38;"nenhum";"propria";2;"qualificado";1;0;0;1
+"441";465;18;"existentes/pagos";"abrir negocio";1950;"<100";"4<=X<7";4;"masculino solteiro";"nao";1;34;"loja";"propria";2;"qualificado";1;1;0;1
+"442";466;24;"existentes/pagos";"veiculo";2924;"<100";"1<=X<4";3;"masculino solteiro";"sim";4;63;"banco";"propria";1;"qualificado";2;1;0;1
+"443";467;24;"Atrasos anteriores";"reforma";1659;"<100";"<1";4;"feminino div/dep/cas";"nao";2;29;"nenhum";"alugada";1;"nao qualificado";1;1;0;0
+"444";468;48;"Atrasos anteriores";"reforma";7238;"Desconhecido";">=7";3;"masculino solteiro";"nao";3;32;"banco";"propria";2;"qualificado";2;0;0;1
+"445";469;33;"Atrasos anteriores";"abrir negocio";2764;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;26;"nenhum";"propria";2;"qualificado";1;1;0;1
+"446";470;24;"Atrasos anteriores";"veiculo";4679;"<100";"4<=X<7";3;"masculino solteiro";"nao";3;35;"nenhum";"propria";2;"nao qualificado";1;1;0;1
+"447";471;24;"existentes/pagos";"reforma";3092;"100<=X<500";"<1";3;"masculino cas/viu";"nao";2;22;"nenhum";"alugada";1;"qualificado";1;1;0;0
+"448";472;6;"existentes/pagos";"educacao";448;"<100";"<1";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"propria";1;"qualificado";1;0;0;0
+"449";473;9;"existentes/pagos";"veiculo";654;"<100";"1<=X<4";4;"masculino solteiro";"nao";3;28;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"450";475;18;"Critico-outros creditos";"reforma";1245;"<100";"1<=X<4";4;"masculino cas/viu";"nao";2;33;"nenhum";"propria";1;"qualificado";1;0;0;0
+"451";476;18;"sem creditos/todos pagos";"moveis";3114;"<100";"<1";1;"feminino div/dep/cas";"nao";4;26;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"452";477;39;"existentes/pagos";"veiculo";2569;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";4;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"453";478;24;"existentes/pagos";"reforma";5152;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;25;"banco";"propria";1;"qualificado";1;0;0;1
+"454";479;12;"existentes/pagos";"abrir negocio";1037;"100<=X<500";"4<=X<7";3;"masculino solteiro";"nao";4;39;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"455";480;15;"Critico-outros creditos";"moveis";1478;"<100";">=7";4;"masculino solteiro";"nao";4;44;"nenhum";"propria";2;"qualificado";2;1;0;1
+"456";481;12;"Critico-outros creditos";"reforma";3573;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";1;23;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"457";482;24;"existentes/pagos";"veiculo";1201;"<100";"<1";4;"masculino solteiro";"nao";1;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"458";483;30;"existentes/pagos";"moveis";3622;">=1000";">=7";4;"feminino div/dep/cas";"nao";4;57;"nenhum";"alugada";2;"qualificado";1;1;0;1
+"459";484;15;"Atrasos anteriores";"moveis";960;">=1000";"4<=X<7";3;"feminino div/dep/cas";"nao";2;30;"nenhum";"propria";2;"qualificado";1;0;0;1
+"460";485;12;"Critico-outros creditos";"veiculo";1163;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";4;44;"nenhum";"propria";1;"qualificado";1;1;0;1
+"461";486;6;"Atrasos anteriores";"veiculo";1209;"<100";"Desempregado";4;"masculino solteiro";"nao";4;47;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"462";487;12;"existentes/pagos";"reforma";3077;"<100";"1<=X<4";2;"masculino solteiro";"nao";4;52;"nenhum";"propria";1;"qualificado";1;1;0;1
+"463";488;24;"existentes/pagos";"veiculo";3757;"<100";">=7";4;"feminino div/dep/cas";"co-participativo";4;62;"nenhum";"gratuita";1;"qualificado";1;1;0;1
+"464";489;10;"existentes/pagos";"veiculo";1418;"100<=X<500";"1<=X<4";3;"masculino solteiro";"nao";2;35;"nenhum";"alugada";1;"nao qualificado";1;0;1;1
+"465";490;6;"existentes/pagos";"veiculo";3518;"<100";"1<=X<4";2;"masculino solteiro";"sim";3;26;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"466";491;12;"Critico-outros creditos";"reforma";1934;"<100";">=7";2;"masculino solteiro";"nao";2;26;"nenhum";"propria";2;"qualificado";1;0;0;1
+"467";492;27;"sem creditos/todos pagos";"abrir negocio";8318;"<100";">=7";2;"feminino div/dep/cas";"nao";4;42;"nenhum";"gratuita";2;"altamente qualificado/empresario";1;1;0;0
+"468";493;6;"Critico-outros creditos";"reforma";1237;"100<=X<500";"1<=X<4";1;"feminino div/dep/cas";"nao";1;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"469";494;6;"existentes/pagos";"reforma";368;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;38;"nenhum";"propria";1;"qualificado";1;0;0;1
+"470";495;12;"Critico-outros creditos";"veiculo";2122;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;39;"nenhum";"alugada";2;"nao qualificado";2;0;1;1
+"471";496;24;"existentes/pagos";"moveis";2996;"Desconhecido";"1<=X<4";2;"masculino cas/viu";"nao";4;20;"nenhum";"propria";1;"qualificado";1;0;0;0
+"472";497;36;"existentes/pagos";"moveis";9034;"100<=X<500";"<1";4;"masculino solteiro";"co-participativo";1;29;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;0
+"473";498;24;"Critico-outros creditos";"moveis";1585;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;40;"nenhum";"propria";2;"qualificado";1;0;0;1
+"474";500;6;"Critico-outros creditos";"veiculo";1323;"100<=X<500";">=7";2;"masculino div/dep";"nao";4;28;"nenhum";"propria";2;"qualificado";2;1;0;1
+"475";501;24;"existentes/pagos";"veiculo";3123;"<100";"<1";4;"feminino div/dep/cas";"nao";1;27;"nenhum";"propria";1;"qualificado";1;0;0;0
+"476";502;36;"existentes/pagos";"veiculo";5493;"<100";">=7";2;"masculino solteiro";"nao";4;42;"nenhum";"gratuita";1;"qualificado";2;0;0;1
+"477";503;9;"existentes/pagos";"reforma";1126;"100<=X<500";">=7";2;"masculino div/dep";"nao";4;49;"nenhum";"propria";1;"qualificado";1;0;0;1
+"478";504;24;"Critico-outros creditos";"reforma";1216;"100<=X<500";"<1";4;"masculino solteiro";"nao";4;38;"banco";"propria";2;"qualificado";2;0;0;0
+"479";506;10;"existentes/pagos";"veiculo";1309;"Desconhecido";"1<=X<4";4;"masculino solteiro";"sim";4;27;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"480";507;15;"Critico-outros creditos";"veiculo";2360;"500<=X<1000";"1<=X<4";2;"masculino solteiro";"nao";2;36;"nenhum";"propria";1;"qualificado";1;1;0;1
+"481";508;15;"todos pagos";"veiculo";6850;"100<=X<500";"Desempregado";1;"masculino solteiro";"nao";2;34;"nenhum";"propria";1;"altamente qualificado/empresario";2;1;0;0
+"482";509;24;"existentes/pagos";"reforma";1413;"<100";"1<=X<4";4;"masculino cas/viu";"nao";2;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"483";510;39;"existentes/pagos";"veiculo";8588;"100<=X<500";">=7";4;"masculino solteiro";"nao";2;45;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"484";511;12;"existentes/pagos";"veiculo";759;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;26;"nenhum";"propria";1;"qualificado";1;0;0;0
+"485";512;36;"existentes/pagos";"veiculo";4686;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;32;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"486";513;15;"existentes/pagos";"abrir negocio";2687;"<100";"4<=X<7";2;"masculino solteiro";"nao";4;26;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"487";514;12;"Atrasos anteriores";"reforma";585;"<100";"1<=X<4";4;"masculino cas/viu";"nao";4;20;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"488";515;24;"existentes/pagos";"veiculo";2255;"Desconhecido";"<1";4;"masculino solteiro";"nao";1;54;"nenhum";"propria";1;"qualificado";1;0;0;1
+"489";516;6;"Critico-outros creditos";"veiculo";609;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";3;37;"nenhum";"propria";2;"qualificado";1;0;1;1
+"490";517;6;"Critico-outros creditos";"veiculo";1361;"<100";"<1";2;"masculino solteiro";"nao";4;40;"nenhum";"propria";1;"nao qualificado";2;0;1;1
+"491";518;36;"Critico-outros creditos";"moveis";7127;"<100";"<1";2;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";2;"qualificado";1;1;0;0
+"492";519;6;"existentes/pagos";"veiculo";1203;"100<=X<500";">=7";3;"masculino solteiro";"nao";2;43;"nenhum";"propria";1;"qualificado";1;1;0;1
+"493";520;6;"Critico-outros creditos";"reforma";700;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;36;"nenhum";"gratuita";2;"qualificado";1;0;0;1
+"494";521;24;"Critico-outros creditos";"reforma";5507;"<100";">=7";3;"masculino solteiro";"nao";4;44;"nenhum";"gratuita";2;"qualificado";1;0;0;1
+"495";522;18;"existentes/pagos";"reforma";3190;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;24;"nenhum";"propria";1;"qualificado";1;0;0;0
+"496";523;48;"sem creditos/todos pagos";"moveis";7119;"<100";"1<=X<4";3;"masculino solteiro";"nao";4;53;"nenhum";"gratuita";2;"qualificado";2;0;0;0
+"497";524;24;"existentes/pagos";"veiculo";3488;"100<=X<500";"4<=X<7";3;"feminino div/dep/cas";"nao";4;23;"nenhum";"propria";1;"qualificado";1;0;0;1
+"498";525;18;"existentes/pagos";"reforma";1113;"<100";"1<=X<4";4;"feminino div/dep/cas";"sim";4;26;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"499";526;26;"existentes/pagos";"veiculo";7966;"<100";"<1";2;"masculino solteiro";"nao";3;30;"nenhum";"propria";2;"qualificado";1;0;0;1
+"500";527;15;"Critico-outros creditos";"educacao";1532;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"nao";3;31;"nenhum";"propria";1;"qualificado";1;0;0;1
+"501";528;4;"Critico-outros creditos";"reforma";1503;"<100";"4<=X<7";2;"masculino solteiro";"nao";1;42;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"502";529;36;"existentes/pagos";"reforma";2302;"<100";"1<=X<4";4;"masculino div/dep";"nao";4;31;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"503";530;6;"existentes/pagos";"veiculo";662;"<100";"<1";3;"masculino solteiro";"nao";4;41;"nenhum";"propria";1;"nao qualificado";2;1;0;1
+"504";531;36;"existentes/pagos";"educacao";2273;"<100";"4<=X<7";3;"masculino solteiro";"nao";1;32;"nenhum";"propria";2;"qualificado";2;0;0;1
+"505";532;15;"existentes/pagos";"veiculo";2631;"100<=X<500";"1<=X<4";2;"feminino div/dep/cas";"nao";4;28;"nenhum";"alugada";2;"qualificado";1;1;0;0
+"506";533;12;"Atrasos anteriores";"veiculo";1503;"<100";"1<=X<4";4;"masculino cas/viu";"nao";4;41;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"507";534;24;"existentes/pagos";"reforma";1311;"100<=X<500";"4<=X<7";4;"masculino cas/viu";"nao";3;26;"nenhum";"propria";1;"qualificado";1;1;0;1
+"508";535;24;"existentes/pagos";"reforma";3105;"Desconhecido";"<1";4;"masculino solteiro";"nao";2;25;"nenhum";"propria";2;"qualificado";1;0;0;1
+"509";536;21;"Critico-outros creditos";"educacao";2319;"<100";"<1";2;"masculino div/dep";"nao";1;33;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"510";537;6;"existentes/pagos";"veiculo";1374;"Desconhecido";"Desempregado";4;"feminino div/dep/cas";"nao";3;75;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"511";538;18;"Critico-outros creditos";"moveis";3612;"<100";">=7";3;"feminino div/dep/cas";"nao";4;37;"nenhum";"propria";1;"qualificado";1;1;0;1
+"512";539;48;"existentes/pagos";"veiculo";7763;"<100";">=7";4;"masculino solteiro";"nao";4;42;"banco";"gratuita";1;"altamente qualificado/empresario";1;0;0;0
+"513";540;18;"existentes/pagos";"moveis";3049;"<100";"<1";1;"feminino div/dep/cas";"nao";1;45;"loja";"propria";1;"nao qualificado";1;0;0;1
+"514";541;12;"existentes/pagos";"reforma";1534;"<100";"<1";1;"masculino cas/viu";"nao";1;23;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"515";542;24;"Atrasos anteriores";"veiculo";2032;"<100";">=7";4;"masculino solteiro";"nao";4;60;"nenhum";"gratuita";2;"qualificado";1;1;0;1
+"516";543;30;"existentes/pagos";"moveis";6350;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;31;"nenhum";"propria";1;"qualificado";1;0;0;0
+"517";544;18;"existentes/pagos";"moveis";2864;"<100";"1<=X<4";2;"masculino solteiro";"nao";1;34;"nenhum";"propria";1;"nao qualificado";2;0;0;0
+"518";545;12;"Critico-outros creditos";"veiculo";1255;"<100";">=7";4;"masculino solteiro";"nao";4;61;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"519";546;24;"Atrasos anteriores";"veiculo";1333;"<100";"Desempregado";4;"masculino solteiro";"nao";2;43;"nenhum";"gratuita";2;"qualificado";2;0;0;0
+"520";547;24;"Critico-outros creditos";"veiculo";2022;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";4;37;"nenhum";"propria";1;"qualificado";1;1;0;1
+"521";548;24;"existentes/pagos";"reforma";1552;"<100";"4<=X<7";3;"masculino solteiro";"nao";1;32;"banco";"propria";1;"qualificado";2;0;0;1
+"522";549;12;"todos pagos";"reforma";626;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";4;24;"banco";"propria";1;"nao qualificado";1;0;0;0
+"523";550;48;"Critico-outros creditos";"veiculo";8858;"Desconhecido";"4<=X<7";2;"masculino solteiro";"nao";1;35;"nenhum";"gratuita";2;"qualificado";1;1;0;1
+"524";551;12;"Critico-outros creditos";"reforma";996;"Desconhecido";"4<=X<7";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"propria";2;"qualificado";1;0;0;1
+"525";552;6;"todos pagos";"reforma";1750;"500<=X<1000";">=7";2;"masculino solteiro";"nao";4;45;"banco";"propria";1;"nao qualificado";2;0;0;1
+"526";553;48;"existentes/pagos";"reforma";6999;"<100";"4<=X<7";1;"masculino cas/viu";"sim";1;34;"nenhum";"propria";2;"qualificado";1;1;0;0
+"527";554;12;"Critico-outros creditos";"veiculo";1995;"100<=X<500";"<1";4;"masculino solteiro";"nao";1;27;"nenhum";"propria";1;"qualificado";1;0;0;1
+"528";555;9;"existentes/pagos";"educacao";1199;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";4;67;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"529";556;12;"existentes/pagos";"reforma";1331;"<100";"<1";2;"masculino solteiro";"nao";1;22;"loja";"propria";1;"qualificado";1;0;0;0
+"530";557;18;"sem creditos/todos pagos";"veiculo";2278;"100<=X<500";"<1";3;"feminino div/dep/cas";"nao";3;28;"nenhum";"propria";2;"qualificado";1;0;0;0
+"531";558;21;"sem creditos/todos pagos";"veiculo";5003;"Desconhecido";"1<=X<4";1;"feminino div/dep/cas";"nao";4;29;"banco";"propria";2;"qualificado";1;1;0;0
+"532";559;24;"todos pagos";"moveis";3552;"<100";"4<=X<7";3;"masculino solteiro";"nao";4;27;"banco";"propria";1;"qualificado";1;0;0;0
+"533";560;18;"Critico-outros creditos";"moveis";1928;"<100";"<1";2;"masculino solteiro";"nao";2;31;"nenhum";"propria";2;"nao qualificado";1;0;0;0
+"534";561;24;"existentes/pagos";"veiculo";2964;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;49;"banco";"gratuita";1;"qualificado";2;1;0;1
+"535";562;24;"todos pagos";"reforma";1546;"<100";"4<=X<7";4;"masculino solteiro";"sim";4;24;"banco";"alugada";1;"nao qualificado";1;0;0;0
+"536";563;6;"Atrasos anteriores";"reforma";683;"<100";"<1";2;"feminino div/dep/cas";"nao";1;29;"banco";"propria";1;"qualificado";1;0;0;1
+"537";564;36;"existentes/pagos";"veiculo";12389;"Desconhecido";"1<=X<4";1;"masculino solteiro";"nao";4;37;"nenhum";"gratuita";1;"qualificado";1;1;0;0
+"538";566;24;"Atrasos anteriores";"reforma";1553;"100<=X<500";"4<=X<7";3;"feminino div/dep/cas";"nao";2;23;"nenhum";"alugada";2;"qualificado";1;1;0;1
+"539";567;12;"existentes/pagos";"veiculo";1372;"<100";"4<=X<7";2;"masculino div/dep";"nao";3;36;"nenhum";"propria";1;"qualificado";1;0;0;0
+"540";568;24;"Critico-outros creditos";"reforma";2578;">=1000";">=7";2;"masculino solteiro";"nao";2;34;"nenhum";"propria";1;"qualificado";1;0;0;1
+"541";569;48;"existentes/pagos";"reforma";3979;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";1;41;"nenhum";"propria";2;"qualificado";2;1;0;1
+"542";570;48;"existentes/pagos";"reforma";6758;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;31;"nenhum";"propria";1;"qualificado";1;1;0;0
+"543";571;24;"existentes/pagos";"moveis";3234;"<100";"<1";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"nao qualificado";1;1;0;0
+"544";572;30;"Critico-outros creditos";"reforma";5954;"<100";"4<=X<7";3;"masculino solteiro";"co-participativo";2;38;"nenhum";"propria";1;"qualificado";1;0;0;1
+"545";573;24;"existentes/pagos";"veiculo";5433;"Desconhecido";"Desempregado";2;"feminino div/dep/cas";"nao";4;26;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"546";574;15;"existentes/pagos";"abrir negocio";806;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";4;22;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"547";575;9;"existentes/pagos";"reforma";1082;"<100";">=7";4;"masculino solteiro";"nao";4;27;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"548";576;15;"Critico-outros creditos";"moveis";2788;"<100";"4<=X<7";2;"feminino div/dep/cas";"co-participativo";3;24;"banco";"propria";2;"qualificado";1;0;0;1
+"549";577;12;"existentes/pagos";"reforma";2930;"<100";"4<=X<7";2;"feminino div/dep/cas";"nao";1;27;"nenhum";"propria";1;"qualificado";1;0;0;1
+"550";578;24;"Critico-outros creditos";"educacao";1927;"Desconhecido";"1<=X<4";3;"feminino div/dep/cas";"nao";2;33;"nenhum";"propria";2;"qualificado";1;1;0;1
+"551";579;36;"Critico-outros creditos";"veiculo";2820;"<100";"<1";4;"masculino div/dep";"nao";4;27;"nenhum";"propria";2;"qualificado";1;0;0;0
+"552";580;24;"existentes/pagos";"educacao";937;"<100";"<1";4;"masculino cas/viu";"nao";3;27;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"553";581;18;"Critico-outros creditos";"veiculo";1056;"<100";">=7";3;"masculino solteiro";"sim";3;30;"banco";"propria";2;"qualificado";1;0;0;0
+"554";582;12;"Critico-outros creditos";"veiculo";3124;"<100";"<1";1;"masculino solteiro";"nao";3;49;"banco";"propria";2;"nao qualificado";2;0;0;1
+"555";583;9;"existentes/pagos";"moveis";1388;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;26;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"556";584;36;"existentes/pagos";"reforma";2384;"<100";"<1";4;"masculino solteiro";"nao";1;33;"nenhum";"alugada";1;"nao qualificado";1;0;0;0
+"557";585;12;"existentes/pagos";"veiculo";2133;"Desconhecido";">=7";4;"feminino div/dep/cas";"nao";4;52;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"558";586;18;"existentes/pagos";"moveis";2039;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";4;20;"banco";"alugada";1;"qualificado";1;0;0;0
+"559";587;9;"Critico-outros creditos";"veiculo";2799;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;36;"nenhum";"alugada";2;"qualificado";2;0;0;1
+"560";588;12;"existentes/pagos";"moveis";1289;"<100";"1<=X<4";4;"masculino solteiro";"sim";1;21;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"561";589;18;"existentes/pagos";"outros";1217;"<100";"1<=X<4";4;"masculino cas/viu";"nao";3;47;"nenhum";"propria";1;"nao qualificado";1;1;0;0
+"562";590;12;"Critico-outros creditos";"moveis";2246;"<100";">=7";3;"masculino solteiro";"nao";3;60;"nenhum";"propria";2;"qualificado";1;0;0;0
+"563";591;12;"Critico-outros creditos";"reforma";385;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";3;58;"nenhum";"propria";4;"nao qualificado";1;1;0;1
+"564";592;24;"Atrasos anteriores";"veiculo";1965;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";4;42;"nenhum";"alugada";2;"qualificado";1;1;0;1
+"565";593;21;"existentes/pagos";"abrir negocio";1572;">=1000";">=7";4;"feminino div/dep/cas";"nao";4;36;"banco";"propria";1;"nao qualificado";1;0;0;1
+"566";594;24;"existentes/pagos";"veiculo";2718;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";4;20;"nenhum";"alugada";1;"nao qualificado";1;1;0;0
+"567";595;24;"todos pagos";"outros";1358;"Desconhecido";">=7";4;"masculino solteiro";"nao";3;40;"loja";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"568";596;6;"todos pagos";"veiculo";931;"100<=X<500";"<1";1;"feminino div/dep/cas";"nao";1;32;"loja";"propria";1;"nao qualificado";1;0;0;0
+"569";597;24;"existentes/pagos";"veiculo";1442;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"570";598;24;"sem creditos/todos pagos";"abrir negocio";4241;"<100";"1<=X<4";1;"masculino solteiro";"nao";4;36;"nenhum";"propria";3;"nao qualificado";1;1;0;0
+"571";599;18;"Critico-outros creditos";"veiculo";2775;"<100";"4<=X<7";2;"masculino solteiro";"nao";2;31;"banco";"propria";2;"qualificado";1;0;0;0
+"572";600;24;"Atrasos anteriores";"abrir negocio";3863;"<100";"1<=X<4";1;"masculino solteiro";"nao";2;32;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"573";601;7;"existentes/pagos";"reforma";2329;"<100";"<1";1;"feminino div/dep/cas";"sim";1;45;"nenhum";"propria";1;"qualificado";1;0;0;1
+"574";602;9;"existentes/pagos";"moveis";918;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";1;30;"nenhum";"propria";1;"qualificado";1;0;0;0
+"575";603;24;"todos pagos";"educacao";1837;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";4;34;"banco";"gratuita";1;"nao qualificado";1;0;0;0
+"576";604;36;"existentes/pagos";"moveis";3349;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;28;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"577";605;10;"existentes/pagos";"moveis";1275;"<100";"<1";4;"feminino div/dep/cas";"nao";2;23;"nenhum";"propria";1;"qualificado";1;0;0;1
+"578";606;24;"todos pagos";"moveis";2828;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";4;22;"loja";"propria";1;"qualificado";1;1;0;1
+"579";607;24;"Critico-outros creditos";"abrir negocio";4526;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;74;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"580";608;36;"existentes/pagos";"reforma";2671;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"co-participativo";4;50;"nenhum";"gratuita";1;"qualificado";1;0;0;0
+"581";609;18;"existentes/pagos";"reforma";2051;"<100";"<1";4;"masculino solteiro";"nao";1;33;"nenhum";"propria";1;"qualificado";1;0;0;1
+"582";610;15;"existentes/pagos";"veiculo";1300;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;45;"banco";"gratuita";1;"qualificado";2;0;0;1
+"583";611;12;"existentes/pagos";"outros";741;"100<=X<500";"Desempregado";4;"feminino div/dep/cas";"nao";3;22;"nenhum";"propria";1;"qualificado";1;0;0;0
+"584";612;10;"existentes/pagos";"veiculo";1240;"100<=X<500";">=7";1;"feminino div/dep/cas";"nao";4;48;"nenhum";"gratuita";1;"nao qualificado";2;0;0;0
+"585";613;21;"existentes/pagos";"reforma";3357;">=1000";"<1";4;"feminino div/dep/cas";"nao";2;29;"banco";"propria";1;"qualificado";1;0;0;1
+"586";614;24;"todos pagos";"veiculo";3632;"<100";"1<=X<4";1;"feminino div/dep/cas";"sim";4;22;"banco";"alugada";1;"qualificado";1;0;1;1
+"587";615;18;"Atrasos anteriores";"moveis";1808;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";1;22;"nenhum";"propria";1;"qualificado";1;0;0;0
+"588";616;48;"sem creditos/todos pagos";"abrir negocio";12204;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";2;48;"banco";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"589";617;60;"Atrasos anteriores";"reforma";9157;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";2;27;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;0;0;1
+"590";618;6;"Critico-outros creditos";"veiculo";3676;"<100";"1<=X<4";1;"masculino solteiro";"nao";3;37;"nenhum";"alugada";3;"qualificado";2;0;0;1
+"591";619;30;"existentes/pagos";"moveis";3441;"100<=X<500";"1<=X<4";2;"feminino div/dep/cas";"co-participativo";4;21;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"592";620;12;"existentes/pagos";"veiculo";640;"<100";"1<=X<4";4;"masculino div/dep";"nao";2;49;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"593";621;21;"Critico-outros creditos";"abrir negocio";3652;"<100";"4<=X<7";2;"masculino solteiro";"nao";3;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"594";622;18;"Critico-outros creditos";"veiculo";1530;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;32;"banco";"propria";2;"qualificado";1;0;0;0
+"595";623;48;"existentes/pagos";"abrir negocio";3914;"Desconhecido";"1<=X<4";4;"masculino div/dep";"nao";2;38;"banco";"propria";1;"qualificado";1;0;0;0
+"596";624;12;"existentes/pagos";"moveis";1858;"<100";"<1";4;"feminino div/dep/cas";"nao";1;22;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"597";625;18;"existentes/pagos";"reforma";2600;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;65;"nenhum";"gratuita";2;"qualificado";1;0;0;0
+"598";626;15;"existentes/pagos";"reforma";1979;"Desconhecido";">=7";4;"masculino solteiro";"nao";2;35;"nenhum";"propria";1;"qualificado";1;0;0;1
+"599";627;6;"existentes/pagos";"moveis";2116;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;41;"nenhum";"propria";1;"qualificado";1;1;0;1
+"600";628;9;"todos pagos";"veiculo";1437;"100<=X<500";"4<=X<7";2;"masculino solteiro";"nao";3;29;"nenhum";"propria";1;"qualificado";1;0;0;0
+"601";629;42;"Critico-outros creditos";"moveis";4042;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";4;36;"nenhum";"propria";2;"qualificado";1;1;0;1
+"602";630;9;"existentes/pagos";"educacao";3832;"Desconhecido";">=7";1;"masculino solteiro";"nao";4;64;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"603";631;24;"existentes/pagos";"reforma";3660;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";4;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"604";632;18;"todos pagos";"moveis";1553;"<100";"1<=X<4";4;"masculino solteiro";"nao";3;44;"banco";"propria";1;"qualificado";1;0;0;0
+"605";633;15;"existentes/pagos";"reforma";1444;"Desconhecido";"<1";4;"masculino solteiro";"nao";1;23;"nenhum";"propria";1;"qualificado";1;0;0;1
+"606";634;9;"existentes/pagos";"moveis";1980;"<100";"<1";2;"feminino div/dep/cas";"co-participativo";2;19;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"607";635;24;"existentes/pagos";"veiculo";1355;"<100";"<1";3;"feminino div/dep/cas";"nao";4;25;"nenhum";"propria";1;"nao qualificado";1;1;0;0
+"608";636;12;"existentes/pagos";"educacao";1393;"<100";">=7";4;"masculino solteiro";"nao";4;47;"banco";"propria";3;"qualificado";2;1;0;1
+"609";637;24;"existentes/pagos";"reforma";1376;"500<=X<1000";"4<=X<7";4;"feminino div/dep/cas";"nao";1;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"610";638;60;"Atrasos anteriores";"reforma";15653;"<100";"4<=X<7";2;"masculino solteiro";"nao";4;21;"nenhum";"propria";2;"qualificado";1;1;0;1
+"611";639;12;"existentes/pagos";"reforma";1493;"<100";"<1";4;"feminino div/dep/cas";"nao";3;34;"nenhum";"propria";1;"qualificado";2;0;0;1
+"612";640;42;"Atrasos anteriores";"reforma";4370;"<100";"4<=X<7";3;"masculino solteiro";"nao";2;26;"banco";"propria";2;"qualificado";2;1;0;0
+"613";641;18;"existentes/pagos";"educacao";750;"<100";"Desempregado";4;"feminino div/dep/cas";"nao";1;27;"nenhum";"propria";1;"desempregado";1;0;0;0
+"614";642;15;"existentes/pagos";"reforma";1308;"<100";">=7";4;"masculino solteiro";"nao";4;38;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"615";643;15;"existentes/pagos";"educacao";4623;"100<=X<500";"1<=X<4";3;"masculino solteiro";"nao";2;40;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"616";644;24;"Critico-outros creditos";"reforma";1851;"<100";"4<=X<7";4;"masculino cas/viu";"sim";2;33;"nenhum";"propria";2;"qualificado";1;1;0;1
+"617";645;18;"Critico-outros creditos";"reforma";1880;"<100";"4<=X<7";4;"masculino cas/viu";"nao";1;32;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"618";646;36;"Atrasos anteriores";"abrir negocio";7980;"Desconhecido";"<1";4;"masculino solteiro";"nao";4;27;"nenhum";"alugada";2;"qualificado";1;1;0;0
+"619";647;30;"sem creditos/todos pagos";"moveis";4583;"<100";"1<=X<4";2;"masculino div/dep";"sim";2;32;"nenhum";"propria";2;"qualificado";1;0;0;1
+"620";648;12;"existentes/pagos";"veiculo";1386;"500<=X<1000";"1<=X<4";2;"feminino div/dep/cas";"nao";2;26;"nenhum";"propria";1;"qualificado";1;0;0;0
+"621";649;24;"existentes/pagos";"veiculo";947;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;38;"banco";"gratuita";1;"qualificado";2;0;0;0
+"622";651;48;"existentes/pagos";"educacao";7476;"<100";"4<=X<7";4;"masculino solteiro";"nao";1;50;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"623";652;12;"existentes/pagos";"moveis";1922;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;37;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"624";653;24;"existentes/pagos";"veiculo";2303;"<100";">=7";4;"masculino solteiro";"co-participativo";1;45;"nenhum";"propria";1;"qualificado";1;0;0;0
+"625";654;36;"Atrasos anteriores";"veiculo";8086;"100<=X<500";">=7";2;"masculino solteiro";"nao";4;42;"nenhum";"propria";4;"altamente qualificado/empresario";1;1;0;0
+"626";655;24;"Critico-outros creditos";"veiculo";2346;"<100";"4<=X<7";4;"masculino solteiro";"nao";3;35;"nenhum";"propria";2;"qualificado";1;1;0;1
+"627";656;14;"existentes/pagos";"veiculo";3973;"<100";"Desempregado";1;"masculino solteiro";"nao";4;22;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"628";657;12;"existentes/pagos";"veiculo";888;"<100";">=7";4;"masculino solteiro";"nao";4;41;"banco";"propria";1;"nao qualificado";2;0;0;0
+"629";658;48;"existentes/pagos";"reforma";10222;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";3;37;"loja";"propria";1;"qualificado";1;1;0;1
+"630";659;30;"sem creditos/todos pagos";"abrir negocio";4221;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";1;28;"nenhum";"propria";2;"qualificado";1;0;0;1
+"631";660;18;"Critico-outros creditos";"moveis";6361;"<100";">=7";2;"masculino solteiro";"nao";1;41;"nenhum";"propria";1;"qualificado";1;1;0;1
+"632";661;12;"existentes/pagos";"reforma";1297;"<100";"1<=X<4";3;"masculino cas/viu";"nao";4;23;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"633";662;12;"existentes/pagos";"veiculo";900;"Desconhecido";"1<=X<4";4;"masculino cas/viu";"nao";2;23;"nenhum";"propria";1;"qualificado";1;0;0;0
+"634";663;21;"existentes/pagos";"moveis";2241;"<100";">=7";4;"masculino solteiro";"nao";2;50;"nenhum";"propria";2;"qualificado";1;0;0;1
+"635";664;6;"Atrasos anteriores";"moveis";1050;"<100";"Desempregado";4;"masculino solteiro";"nao";1;35;"loja";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"636";665;6;"Critico-outros creditos";"educacao";1047;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";4;50;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"637";666;24;"Critico-outros creditos";"outros";6314;"<100";"Desempregado";4;"masculino solteiro";"co-participativo";2;27;"banco";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"638";667;30;"todos pagos";"moveis";3496;">=1000";"1<=X<4";4;"masculino solteiro";"nao";2;34;"loja";"propria";1;"qualificado";2;1;0;1
+"639";668;48;"todos pagos";"abrir negocio";3609;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";1;27;"loja";"propria";1;"qualificado";1;0;0;1
+"640";669;12;"Critico-outros creditos";"veiculo";4843;"<100";">=7";3;"masculino solteiro";"co-participativo";4;43;"nenhum";"alugada";2;"qualificado";1;1;0;0
+"641";670;30;"Critico-outros creditos";"reforma";3017;"<100";">=7";4;"masculino solteiro";"nao";4;47;"nenhum";"propria";1;"qualificado";1;0;0;1
+"642";671;24;"Critico-outros creditos";"abrir negocio";4139;"100<=X<500";"1<=X<4";3;"masculino solteiro";"nao";3;27;"nenhum";"propria";2;"nao qualificado";1;1;0;1
+"643";672;36;"existentes/pagos";"abrir negocio";5742;"100<=X<500";"4<=X<7";2;"masculino solteiro";"nao";2;31;"nenhum";"propria";2;"qualificado";1;1;0;1
+"644";673;60;"existentes/pagos";"veiculo";10366;"<100";">=7";2;"masculino solteiro";"nao";4;42;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"645";674;6;"Critico-outros creditos";"veiculo";2080;"500<=X<1000";"1<=X<4";1;"masculino cas/viu";"nao";2;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"646";675;21;"Atrasos anteriores";"abrir negocio";2580;"500<=X<1000";"<1";4;"masculino solteiro";"nao";2;41;"banco";"propria";1;"nao qualificado";2;0;0;0
+"647";677;24;"Critico-outros creditos";"moveis";5150;"<100";">=7";4;"masculino solteiro";"nao";4;33;"nenhum";"propria";1;"qualificado";1;1;0;1
+"648";678;72;"existentes/pagos";"reforma";5595;"100<=X<500";"1<=X<4";2;"masculino cas/viu";"nao";2;24;"nenhum";"propria";1;"qualificado";1;0;0;0
+"649";679;24;"existentes/pagos";"reforma";2384;"<100";">=7";4;"masculino solteiro";"nao";4;64;"banco";"alugada";1;"nao qualificado";1;0;0;1
+"650";680;18;"existentes/pagos";"reforma";1453;"<100";"<1";3;"feminino div/dep/cas";"nao";1;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"651";681;6;"existentes/pagos";"educacao";1538;"<100";"<1";1;"feminino div/dep/cas";"nao";2;56;"nenhum";"propria";1;"qualificado";1;0;0;1
+"652";682;12;"existentes/pagos";"reforma";2279;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";4;37;"nenhum";"gratuita";1;"qualificado";1;1;0;1
+"653";683;15;"Atrasos anteriores";"reforma";1478;"<100";"1<=X<4";4;"masculino cas/viu";"nao";3;33;"banco";"propria";2;"qualificado";1;0;0;1
+"654";684;24;"Critico-outros creditos";"reforma";5103;"<100";"<1";3;"masculino cas/viu";"nao";3;47;"nenhum";"gratuita";3;"qualificado";1;1;0;1
+"655";685;36;"Atrasos anteriores";"abrir negocio";9857;"100<=X<500";"4<=X<7";1;"masculino solteiro";"nao";3;31;"nenhum";"propria";2;"nao qualificado";2;1;0;1
+"656";686;60;"existentes/pagos";"veiculo";6527;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";4;34;"nenhum";"gratuita";1;"qualificado";2;1;0;1
+"657";687;10;"Critico-outros creditos";"reforma";1347;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";2;27;"nenhum";"propria";2;"qualificado";1;1;0;1
+"658";688;36;"Atrasos anteriores";"veiculo";2862;"100<=X<500";">=7";4;"masculino solteiro";"nao";3;30;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"659";689;9;"existentes/pagos";"reforma";2753;"100<=X<500";">=7";3;"masculino solteiro";"co-participativo";4;35;"nenhum";"propria";1;"qualificado";1;1;0;1
+"660";690;12;"existentes/pagos";"veiculo";3651;">=1000";"1<=X<4";1;"masculino solteiro";"nao";3;31;"nenhum";"propria";1;"qualificado";2;0;0;1
+"661";691;15;"Critico-outros creditos";"moveis";975;"<100";"1<=X<4";2;"masculino div/dep";"nao";3;25;"nenhum";"propria";2;"qualificado";1;0;0;1
+"662";692;15;"existentes/pagos";"reforma";2631;"100<=X<500";"1<=X<4";3;"feminino div/dep/cas";"nao";2;25;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"663";693;24;"existentes/pagos";"reforma";2896;"100<=X<500";"<1";2;"masculino solteiro";"nao";1;29;"nenhum";"propria";1;"qualificado";1;0;0;1
+"664";694;6;"Critico-outros creditos";"veiculo";4716;"Desconhecido";"<1";1;"masculino solteiro";"nao";3;44;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"665";695;24;"existentes/pagos";"reforma";2284;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;28;"nenhum";"propria";1;"qualificado";1;1;0;1
+"666";696;6;"existentes/pagos";"veiculo";1236;"500<=X<1000";"1<=X<4";2;"masculino solteiro";"nao";4;50;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"667";697;12;"existentes/pagos";"reforma";1103;"<100";"4<=X<7";4;"masculino solteiro";"sim";3;29;"nenhum";"propria";2;"qualificado";1;0;1;1
+"668";698;12;"Critico-outros creditos";"veiculo";926;"<100";"Desempregado";1;"feminino div/dep/cas";"nao";2;38;"nenhum";"propria";1;"desempregado";1;0;0;1
+"669";699;18;"Critico-outros creditos";"reforma";1800;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;24;"nenhum";"propria";2;"qualificado";1;0;0;1
+"670";700;15;"existentes/pagos";"educacao";1905;"<100";">=7";4;"masculino solteiro";"nao";4;40;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"671";701;12;"existentes/pagos";"moveis";1123;"500<=X<1000";"1<=X<4";4;"feminino div/dep/cas";"nao";4;29;"nenhum";"alugada";1;"nao qualificado";1;0;0;0
+"672";702;48;"Critico-outros creditos";"veiculo";6331;"<100";">=7";4;"masculino solteiro";"nao";4;46;"nenhum";"gratuita";2;"qualificado";1;1;0;0
+"673";703;24;"existentes/pagos";"reforma";1377;"100<=X<500";">=7";4;"feminino div/dep/cas";"nao";2;47;"nenhum";"gratuita";1;"qualificado";1;1;0;1
+"674";704;30;"Atrasos anteriores";"abrir negocio";2503;"100<=X<500";">=7";4;"masculino solteiro";"nao";2;41;"loja";"propria";2;"qualificado";1;0;0;1
+"675";705;27;"existentes/pagos";"abrir negocio";2528;"<100";"<1";4;"feminino div/dep/cas";"nao";1;32;"nenhum";"propria";1;"qualificado";2;1;0;1
+"676";706;15;"existentes/pagos";"veiculo";5324;"500<=X<1000";">=7";1;"feminino div/dep/cas";"nao";4;35;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"677";707;48;"existentes/pagos";"veiculo";6560;"100<=X<500";"4<=X<7";3;"masculino solteiro";"nao";2;24;"nenhum";"propria";1;"qualificado";1;0;0;0
+"678";708;12;"sem creditos/todos pagos";"moveis";2969;"<100";"<1";4;"feminino div/dep/cas";"nao";3;25;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"679";709;9;"existentes/pagos";"reforma";1206;"<100";">=7";4;"feminino div/dep/cas";"nao";4;25;"nenhum";"propria";1;"qualificado";1;0;0;1
+"680";710;9;"existentes/pagos";"reforma";2118;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;37;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"681";711;18;"Critico-outros creditos";"reforma";629;"500<=X<1000";">=7";4;"masculino solteiro";"nao";3;32;"banco";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"682";712;6;"todos pagos";"educacao";1198;"<100";">=7";4;"feminino div/dep/cas";"nao";4;35;"nenhum";"gratuita";1;"qualificado";1;0;0;0
+"683";713;21;"existentes/pagos";"veiculo";2476;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;46;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"684";714;9;"Critico-outros creditos";"reforma";1138;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;25;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"685";715;60;"existentes/pagos";"veiculo";14027;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;27;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"686";716;30;"Critico-outros creditos";"veiculo";7596;"Desconhecido";">=7";1;"masculino solteiro";"nao";4;63;"nenhum";"propria";2;"qualificado";1;0;0;1
+"687";717;30;"Critico-outros creditos";"reforma";3077;"Desconhecido";">=7";3;"masculino solteiro";"nao";2;40;"nenhum";"propria";2;"qualificado";2;1;0;1
+"688";718;18;"existentes/pagos";"reforma";1505;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;32;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"689";719;24;"Critico-outros creditos";"reforma";3148;"Desconhecido";"1<=X<4";3;"masculino solteiro";"nao";2;31;"nenhum";"propria";2;"qualificado";1;1;0;1
+"690";720;20;"sem creditos/todos pagos";"veiculo";6148;"100<=X<500";">=7";3;"masculino cas/viu";"nao";4;31;"banco";"propria";2;"qualificado";1;1;0;1
+"691";721;9;"sem creditos/todos pagos";"reforma";1337;"<100";"<1";4;"masculino solteiro";"nao";2;34;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"692";722;6;"todos pagos";"educacao";433;">=1000";"<1";4;"feminino div/dep/cas";"nao";2;24;"banco";"alugada";1;"qualificado";2;0;0;0
+"693";723;12;"existentes/pagos";"veiculo";1228;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;24;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"694";724;9;"existentes/pagos";"reforma";790;"500<=X<1000";"1<=X<4";4;"feminino div/dep/cas";"nao";3;66;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"695";725;27;"existentes/pagos";"veiculo";2570;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";3;21;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"696";726;6;"Critico-outros creditos";"veiculo";250;">=1000";"1<=X<4";2;"feminino div/dep/cas";"nao";2;41;"banco";"propria";2;"nao qualificado";1;0;0;1
+"697";727;15;"Critico-outros creditos";"reforma";1316;"500<=X<1000";"1<=X<4";2;"masculino cas/viu";"nao";2;47;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"698";728;18;"existentes/pagos";"reforma";1882;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";4;25;"banco";"alugada";2;"qualificado";1;0;0;0
+"699";729;48;"todos pagos";"abrir negocio";6416;"<100";">=7";4;"feminino div/dep/cas";"nao";3;59;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"700";730;24;"Critico-outros creditos";"abrir negocio";1275;">=1000";"1<=X<4";2;"masculino div/dep";"nao";4;36;"nenhum";"propria";2;"qualificado";1;1;0;1
+"701";731;24;"Atrasos anteriores";"reforma";6403;"<100";"<1";1;"masculino solteiro";"nao";2;33;"nenhum";"propria";1;"qualificado";1;0;0;1
+"702";732;24;"existentes/pagos";"reforma";1987;"<100";"1<=X<4";2;"masculino solteiro";"nao";4;21;"nenhum";"alugada";1;"nao qualificado";2;0;0;0
+"703";733;8;"existentes/pagos";"reforma";760;"<100";"4<=X<7";4;"feminino div/dep/cas";"sim";2;44;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"704";734;24;"existentes/pagos";"veiculo";2603;">=1000";"1<=X<4";2;"feminino div/dep/cas";"nao";4;28;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"705";735;4;"Critico-outros creditos";"veiculo";3380;"<100";"4<=X<7";1;"feminino div/dep/cas";"nao";1;37;"nenhum";"propria";1;"qualificado";2;0;0;1
+"706";736;36;"todos pagos";"outros";3990;"Desconhecido";"<1";3;"feminino div/dep/cas";"nao";2;29;"banco";"propria";1;"desempregado";1;0;0;1
+"707";737;24;"existentes/pagos";"veiculo";11560;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";2;"altamente qualificado/empresario";1;0;0;0
+"708";738;18;"existentes/pagos";"veiculo";4380;"100<=X<500";"1<=X<4";3;"masculino solteiro";"nao";4;35;"nenhum";"propria";1;"nao qualificado";2;1;0;1
+"709";739;6;"Critico-outros creditos";"veiculo";6761;"<100";"4<=X<7";1;"masculino solteiro";"nao";3;45;"nenhum";"propria";2;"altamente qualificado/empresario";2;1;0;1
+"710";740;30;"sem creditos/todos pagos";"abrir negocio";4280;"100<=X<500";"1<=X<4";4;"feminino div/dep/cas";"nao";4;26;"nenhum";"alugada";2;"nao qualificado";1;0;0;0
+"711";741;24;"todos pagos";"veiculo";2325;"100<=X<500";"4<=X<7";2;"masculino solteiro";"nao";3;32;"banco";"propria";1;"qualificado";1;0;0;1
+"712";742;10;"todos pagos";"reforma";1048;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;23;"loja";"propria";1;"nao qualificado";1;0;0;1
+"713";743;21;"existentes/pagos";"reforma";3160;"Desconhecido";">=7";4;"masculino solteiro";"nao";3;41;"nenhum";"propria";1;"qualificado";1;1;0;1
+"714";744;24;"todos pagos";"moveis";2483;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";4;22;"loja";"propria";1;"qualificado";1;1;0;1
+"715";746;13;"Critico-outros creditos";"abrir negocio";1797;"<100";"<1";3;"masculino solteiro";"nao";1;28;"banco";"propria";2;"nao qualificado";1;0;0;1
+"716";747;15;"existentes/pagos";"veiculo";2511;"<100";"Desempregado";1;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"717";748;12;"existentes/pagos";"veiculo";1274;"<100";"<1";3;"feminino div/dep/cas";"nao";1;37;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"718";749;21;"existentes/pagos";"veiculo";5248;"Desconhecido";"1<=X<4";1;"masculino solteiro";"nao";3;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"719";751;6;"existentes/pagos";"moveis";428;"<100";">=7";2;"feminino div/dep/cas";"nao";1;49;"banco";"propria";1;"qualificado";1;1;0;1
+"720";752;18;"existentes/pagos";"veiculo";976;"<100";"<1";1;"feminino div/dep/cas";"nao";2;23;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"721";753;12;"existentes/pagos";"abrir negocio";841;"100<=X<500";"4<=X<7";2;"feminino div/dep/cas";"nao";4;23;"nenhum";"alugada";1;"nao qualificado";1;0;0;1
+"722";754;30;"Critico-outros creditos";"reforma";5771;"<100";"4<=X<7";4;"feminino div/dep/cas";"nao";2;25;"nenhum";"propria";2;"qualificado";1;0;0;1
+"723";755;12;"Atrasos anteriores";"reforma";1555;">=1000";">=7";4;"masculino solteiro";"nao";4;55;"nenhum";"gratuita";2;"qualificado";2;0;0;0
+"724";756;24;"existentes/pagos";"veiculo";1285;"Desconhecido";"4<=X<7";4;"feminino div/dep/cas";"nao";4;32;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"725";757;6;"Critico-outros creditos";"veiculo";1299;"<100";"1<=X<4";1;"masculino solteiro";"nao";1;74;"nenhum";"propria";3;"desempregado";2;0;1;1
+"726";758;15;"Critico-outros creditos";"reforma";1271;"Desconhecido";"1<=X<4";3;"masculino solteiro";"nao";4;39;"nenhum";"gratuita";2;"qualificado";1;1;0;0
+"727";759;24;"existentes/pagos";"veiculo";1393;"<100";"1<=X<4";2;"masculino solteiro";"sim";2;31;"nenhum";"propria";1;"qualificado";1;1;0;1
+"728";760;12;"Critico-outros creditos";"veiculo";691;"<100";">=7";4;"masculino solteiro";"nao";3;35;"nenhum";"propria";2;"qualificado";1;0;0;0
+"729";761;15;"Critico-outros creditos";"veiculo";5045;"Desconhecido";">=7";1;"feminino div/dep/cas";"nao";4;59;"nenhum";"propria";1;"qualificado";1;1;0;1
+"730";762;18;"Critico-outros creditos";"moveis";2124;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";4;24;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"731";763;12;"existentes/pagos";"reforma";2214;"<100";"1<=X<4";4;"masculino solteiro";"nao";3;24;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"732";764;21;"Critico-outros creditos";"veiculo";12680;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;30;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"733";765;24;"Critico-outros creditos";"veiculo";2463;"100<=X<500";"4<=X<7";4;"masculino cas/viu";"nao";3;27;"nenhum";"propria";2;"qualificado";1;1;0;1
+"734";766;12;"existentes/pagos";"reforma";1155;"<100";">=7";3;"masculino cas/viu";"sim";3;40;"banco";"propria";2;"nao qualificado";1;0;0;1
+"735";767;30;"existentes/pagos";"moveis";3108;"<100";"<1";2;"masculino div/dep";"nao";4;31;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"736";768;10;"existentes/pagos";"veiculo";2901;"Desconhecido";"<1";1;"feminino div/dep/cas";"nao";4;31;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"737";769;12;"Critico-outros creditos";"moveis";3617;"<100";">=7";1;"masculino solteiro";"nao";4;28;"nenhum";"alugada";3;"qualificado";1;1;0;1
+"738";770;12;"Critico-outros creditos";"reforma";1655;"<100";">=7";2;"masculino solteiro";"nao";4;63;"nenhum";"propria";2;"nao qualificado";1;1;0;1
+"739";771;24;"existentes/pagos";"veiculo";2812;"Desconhecido";">=7";2;"feminino div/dep/cas";"nao";4;26;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"740";772;36;"Critico-outros creditos";"educacao";8065;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;25;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"741";773;21;"Critico-outros creditos";"veiculo";3275;"<100";">=7";1;"masculino solteiro";"nao";4;36;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"742";774;24;"Critico-outros creditos";"reforma";2223;"100<=X<500";">=7";4;"masculino solteiro";"nao";4;52;"banco";"propria";2;"qualificado";1;0;0;1
+"743";775;12;"Critico-outros creditos";"veiculo";1480;"500<=X<1000";"Desempregado";2;"masculino solteiro";"nao";4;66;"banco";"gratuita";3;"desempregado";1;0;0;1
+"744";776;24;"existentes/pagos";"veiculo";1371;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";4;25;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"745";777;36;"Critico-outros creditos";"veiculo";3535;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;37;"nenhum";"propria";2;"qualificado";1;1;0;1
+"746";778;18;"existentes/pagos";"reforma";3509;"<100";"4<=X<7";4;"feminino div/dep/cas";"sim";1;25;"nenhum";"propria";1;"qualificado";1;0;0;1
+"747";779;36;"Critico-outros creditos";"veiculo";5711;">=1000";">=7";4;"masculino solteiro";"nao";2;38;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"748";780;18;"existentes/pagos";"reforma";3872;"<100";"Desempregado";2;"feminino div/dep/cas";"nao";4;67;"nenhum";"propria";1;"qualificado";1;1;0;1
+"749";781;39;"Critico-outros creditos";"reforma";4933;"<100";"4<=X<7";2;"masculino solteiro";"sim";2;25;"nenhum";"propria";2;"qualificado";1;0;0;0
+"750";782;24;"Critico-outros creditos";"veiculo";1940;">=1000";">=7";4;"masculino solteiro";"nao";4;60;"nenhum";"propria";1;"qualificado";1;1;0;1
+"751";783;12;"sem creditos/todos pagos";"educacao";1410;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;31;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"752";784;12;"existentes/pagos";"veiculo";836;"100<=X<500";"<1";4;"feminino div/dep/cas";"nao";2;23;"banco";"propria";1;"nao qualificado";1;0;0;0
+"753";785;20;"existentes/pagos";"veiculo";6468;"Desconhecido";"Desempregado";1;"masculino div/dep";"nao";4;60;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"754";786;18;"existentes/pagos";"abrir negocio";1941;">=1000";"1<=X<4";4;"masculino solteiro";"nao";2;35;"nenhum";"propria";1;"nao qualificado";1;1;0;1
+"755";787;22;"existentes/pagos";"reforma";2675;"500<=X<1000";">=7";3;"masculino solteiro";"nao";4;40;"nenhum";"propria";1;"qualificado";1;0;0;1
+"756";788;48;"Critico-outros creditos";"veiculo";2751;"Desconhecido";">=7";4;"masculino solteiro";"nao";3;38;"nenhum";"propria";2;"qualificado";2;1;0;1
+"757";789;48;"Atrasos anteriores";"educacao";6224;"<100";">=7";4;"masculino solteiro";"nao";4;50;"nenhum";"gratuita";1;"qualificado";1;0;0;0
+"758";790;40;"Critico-outros creditos";"educacao";5998;"<100";"1<=X<4";4;"masculino solteiro";"nao";3;27;"banco";"propria";1;"qualificado";1;1;0;0
+"759";791;21;"existentes/pagos";"abrir negocio";1188;"<100";">=7";2;"feminino div/dep/cas";"nao";4;39;"nenhum";"propria";1;"qualificado";2;0;0;0
+"760";792;24;"existentes/pagos";"veiculo";6313;"Desconhecido";">=7";3;"masculino solteiro";"nao";4;41;"nenhum";"propria";1;"altamente qualificado/empresario";2;1;0;1
+"761";793;6;"Critico-outros creditos";"moveis";1221;"Desconhecido";"1<=X<4";1;"masculino cas/viu";"nao";2;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"762";794;24;"existentes/pagos";"moveis";2892;"<100";">=7";3;"masculino div/dep";"nao";4;51;"nenhum";"gratuita";1;"qualificado";1;0;0;1
+"763";795;24;"existentes/pagos";"moveis";3062;"500<=X<1000";">=7";4;"masculino solteiro";"nao";3;32;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"764";796;9;"existentes/pagos";"moveis";2301;"100<=X<500";"<1";2;"feminino div/dep/cas";"nao";4;22;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"765";797;18;"existentes/pagos";"veiculo";7511;"Desconhecido";">=7";1;"masculino solteiro";"nao";4;51;"nenhum";"gratuita";1;"qualificado";2;1;0;0
+"766";798;12;"Critico-outros creditos";"moveis";1258;"<100";"<1";2;"feminino div/dep/cas";"nao";4;22;"nenhum";"alugada";2;"nao qualificado";1;0;0;1
+"767";800;9;"existentes/pagos";"veiculo";1549;"Desconhecido";"<1";4;"masculino solteiro";"nao";2;35;"nenhum";"propria";1;"desempregado";1;0;0;1
+"768";801;24;"Critico-outros creditos";"educacao";1597;"<100";">=7";4;"masculino solteiro";"nao";4;54;"nenhum";"gratuita";2;"qualificado";2;0;0;1
+"769";802;18;"Critico-outros creditos";"reforma";1795;"<100";">=7";3;"feminino div/dep/cas";"sim";4;48;"banco";"alugada";2;"nao qualificado";1;1;0;1
+"770";803;20;"Critico-outros creditos";"moveis";4272;"<100";">=7";1;"feminino div/dep/cas";"nao";4;24;"nenhum";"propria";2;"qualificado";1;0;0;1
+"771";804;12;"Critico-outros creditos";"reforma";976;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;35;"nenhum";"propria";2;"qualificado";1;0;0;1
+"772";805;12;"existentes/pagos";"veiculo";7472;"Desconhecido";"Desempregado";1;"feminino div/dep/cas";"nao";2;24;"nenhum";"alugada";1;"desempregado";1;0;0;1
+"773";806;36;"existentes/pagos";"veiculo";9271;"<100";"4<=X<7";2;"masculino solteiro";"nao";1;24;"nenhum";"propria";1;"qualificado";1;1;0;0
+"774";807;6;"existentes/pagos";"reforma";590;"<100";"<1";3;"masculino cas/viu";"nao";3;26;"nenhum";"propria";1;"nao qualificado";1;0;1;1
+"775";808;12;"Critico-outros creditos";"reforma";930;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;65;"nenhum";"propria";4;"qualificado";1;0;0;1
+"776";809;42;"todos pagos";"veiculo";9283;"<100";"Desempregado";1;"masculino solteiro";"nao";2;55;"banco";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"777";810;15;"sem creditos/todos pagos";"veiculo";1778;"<100";"<1";2;"feminino div/dep/cas";"nao";1;26;"nenhum";"alugada";2;"desempregado";1;0;0;0
+"778";811;8;"existentes/pagos";"abrir negocio";907;"<100";"<1";3;"masculino cas/viu";"nao";2;26;"nenhum";"propria";1;"qualificado";1;1;0;1
+"779";812;6;"existentes/pagos";"reforma";484;"<100";"4<=X<7";3;"masculino cas/viu";"sim";3;28;"banco";"propria";1;"nao qualificado";1;0;0;1
+"780";813;36;"Critico-outros creditos";"veiculo";9629;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;24;"nenhum";"propria";2;"qualificado";1;1;0;0
+"781";814;48;"existentes/pagos";"outros";3051;"<100";"1<=X<4";3;"masculino solteiro";"nao";4;54;"nenhum";"propria";1;"qualificado";1;0;0;0
+"782";815;48;"existentes/pagos";"veiculo";3931;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;46;"nenhum";"gratuita";1;"qualificado";2;0;0;0
+"783";816;36;"Atrasos anteriores";"veiculo";7432;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";2;54;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"784";817;6;"existentes/pagos";"outros";1338;"500<=X<1000";"1<=X<4";1;"masculino div/dep";"nao";4;62;"nenhum";"propria";1;"qualificado";1;0;0;1
+"785";818;6;"Critico-outros creditos";"reforma";1554;"<100";"4<=X<7";1;"feminino div/dep/cas";"nao";2;24;"nenhum";"alugada";2;"qualificado";1;1;0;1
+"786";819;36;"existentes/pagos";"outros";15857;"<100";"Desempregado";2;"masculino div/dep";"co-participativo";3;43;"nenhum";"propria";1;"altamente qualificado/empresario";1;0;0;1
+"787";820;18;"existentes/pagos";"reforma";1345;"<100";"1<=X<4";4;"masculino cas/viu";"nao";3;26;"banco";"propria";1;"qualificado";1;0;0;0
+"788";821;12;"existentes/pagos";"veiculo";1101;"<100";"1<=X<4";3;"masculino cas/viu";"nao";2;27;"nenhum";"propria";2;"qualificado";1;1;0;1
+"789";822;12;"existentes/pagos";"reforma";3016;"<100";"1<=X<4";3;"masculino cas/viu";"nao";1;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"790";823;36;"existentes/pagos";"moveis";2712;"<100";">=7";2;"masculino solteiro";"nao";2;41;"banco";"propria";1;"qualificado";2;0;0;0
+"791";824;8;"Critico-outros creditos";"veiculo";731;"<100";">=7";4;"masculino solteiro";"nao";4;47;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"792";825;18;"Critico-outros creditos";"moveis";3780;"<100";"<1";3;"masculino div/dep";"nao";2;35;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"793";826;21;"Critico-outros creditos";"veiculo";1602;"<100";">=7";4;"masculino cas/viu";"nao";3;30;"nenhum";"propria";2;"qualificado";1;1;0;1
+"794";827;18;"Critico-outros creditos";"veiculo";3966;"<100";">=7";1;"feminino div/dep/cas";"nao";4;33;"banco";"alugada";3;"qualificado";1;1;0;0
+"795";828;18;"sem creditos/todos pagos";"abrir negocio";4165;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;36;"loja";"propria";2;"qualificado";2;0;0;0
+"796";829;36;"existentes/pagos";"veiculo";8335;"Desconhecido";">=7";3;"masculino solteiro";"nao";4;47;"nenhum";"gratuita";1;"qualificado";1;0;0;0
+"797";830;48;"Atrasos anteriores";"abrir negocio";6681;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";4;38;"nenhum";"gratuita";1;"qualificado";2;1;0;1
+"798";831;24;"Atrasos anteriores";"abrir negocio";2375;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";2;44;"nenhum";"propria";2;"qualificado";2;1;0;1
+"799";832;18;"existentes/pagos";"veiculo";1216;"<100";"<1";4;"feminino div/dep/cas";"nao";3;23;"nenhum";"alugada";1;"qualificado";1;1;0;0
+"800";833;45;"sem creditos/todos pagos";"abrir negocio";11816;"<100";">=7";2;"masculino solteiro";"nao";4;29;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"801";835;15;"existentes/pagos";"reforma";2327;"<100";"<1";2;"feminino div/dep/cas";"nao";3;25;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"802";836;12;"sem creditos/todos pagos";"veiculo";1082;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;48;"banco";"propria";2;"qualificado";1;0;0;0
+"803";837;12;"existentes/pagos";"reforma";886;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";2;21;"nenhum";"propria";1;"qualificado";1;0;0;1
+"804";838;4;"existentes/pagos";"moveis";601;"<100";"<1";1;"feminino div/dep/cas";"nao";3;23;"nenhum";"alugada";1;"nao qualificado";2;0;0;1
+"805";839;24;"Critico-outros creditos";"veiculo";2957;"<100";">=7";4;"masculino solteiro";"nao";4;63;"nenhum";"propria";2;"qualificado";1;1;0;1
+"806";840;24;"Critico-outros creditos";"reforma";2611;"<100";">=7";4;"masculino cas/viu";"co-participativo";3;46;"nenhum";"propria";2;"qualificado";1;0;0;1
+"807";841;36;"existentes/pagos";"moveis";5179;"<100";"4<=X<7";4;"masculino solteiro";"nao";2;29;"nenhum";"propria";1;"qualificado";1;0;0;0
+"808";842;21;"Atrasos anteriores";"veiculo";2993;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;28;"loja";"propria";2;"nao qualificado";1;0;0;1
+"809";843;18;"existentes/pagos";"reforma";1943;"<100";"<1";4;"feminino div/dep/cas";"nao";4;23;"nenhum";"propria";1;"qualificado";1;0;0;0
+"810";845;18;"existentes/pagos";"moveis";3422;"<100";">=7";4;"masculino solteiro";"nao";4;47;"banco";"propria";3;"qualificado";2;1;0;1
+"811";846;21;"existentes/pagos";"moveis";3976;"Desconhecido";"4<=X<7";2;"masculino solteiro";"nao";3;35;"nenhum";"propria";1;"qualificado";1;1;0;1
+"812";847;18;"existentes/pagos";"veiculo";6761;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";4;68;"nenhum";"alugada";2;"qualificado";1;0;0;0
+"813";848;24;"existentes/pagos";"veiculo";1249;"<100";"<1";4;"masculino cas/viu";"nao";2;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"814";849;9;"existentes/pagos";"reforma";1364;"<100";"4<=X<7";3;"masculino solteiro";"nao";4;59;"nenhum";"propria";1;"qualificado";1;0;0;1
+"815";850;12;"existentes/pagos";"reforma";709;"<100";">=7";4;"masculino solteiro";"nao";4;57;"loja";"propria";1;"nao qualificado";1;0;0;0
+"816";851;20;"Critico-outros creditos";"veiculo";2235;"<100";"1<=X<4";4;"masculino cas/viu";"sim";2;33;"banco";"alugada";2;"qualificado";1;0;1;0
+"817";852;24;"Critico-outros creditos";"veiculo";4042;"Desconhecido";"4<=X<7";3;"masculino solteiro";"nao";4;43;"nenhum";"propria";2;"qualificado";1;1;0;1
+"818";853;15;"Critico-outros creditos";"reforma";1471;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;35;"nenhum";"gratuita";2;"qualificado";1;1;0;1
+"819";854;18;"todos pagos";"veiculo";1442;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;32;"nenhum";"gratuita";2;"nao qualificado";2;0;0;0
+"820";855;36;"Atrasos anteriores";"veiculo";10875;"<100";">=7";2;"masculino solteiro";"nao";2;45;"nenhum";"propria";2;"qualificado";2;1;0;1
+"821";856;24;"existentes/pagos";"veiculo";1474;"100<=X<500";"<1";4;"masculino cas/viu";"nao";3;33;"nenhum";"propria";1;"qualificado";1;1;0;1
+"822";857;10;"existentes/pagos";"educacao";894;"Desconhecido";"4<=X<7";4;"feminino div/dep/cas";"nao";3;40;"nenhum";"propria";1;"qualificado";1;1;0;1
+"823";858;15;"Critico-outros creditos";"moveis";3343;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;28;"nenhum";"gratuita";1;"qualificado";1;1;0;1
+"824";859;15;"existentes/pagos";"veiculo";3959;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;29;"nenhum";"propria";1;"qualificado";1;1;0;0
+"825";860;9;"existentes/pagos";"veiculo";3577;"100<=X<500";"1<=X<4";1;"masculino solteiro";"sim";2;26;"nenhum";"alugada";1;"qualificado";2;0;1;1
+"826";861;24;"Critico-outros creditos";"veiculo";5804;">=1000";"1<=X<4";4;"masculino solteiro";"nao";2;27;"nenhum";"propria";2;"qualificado";1;0;0;1
+"827";862;18;"Atrasos anteriores";"abrir negocio";2169;"<100";"1<=X<4";4;"masculino cas/viu";"nao";2;28;"nenhum";"propria";1;"qualificado";1;1;0;0
+"828";863;24;"existentes/pagos";"reforma";2439;"<100";"<1";4;"feminino div/dep/cas";"nao";4;35;"nenhum";"propria";1;"qualificado";1;1;0;0
+"829";864;27;"Critico-outros creditos";"moveis";4526;">=1000";"<1";4;"masculino solteiro";"nao";2;32;"loja";"propria";2;"nao qualificado";2;1;0;1
+"830";865;10;"existentes/pagos";"moveis";2210;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;25;"banco";"alugada";1;"nao qualificado";1;0;0;0
+"831";866;15;"existentes/pagos";"moveis";2221;"500<=X<1000";"1<=X<4";2;"feminino div/dep/cas";"nao";4;20;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"832";867;18;"existentes/pagos";"reforma";2389;"<100";"<1";4;"feminino div/dep/cas";"nao";1;27;"loja";"propria";1;"qualificado";1;0;0;1
+"833";868;12;"Critico-outros creditos";"moveis";3331;"<100";">=7";2;"masculino solteiro";"nao";4;42;"loja";"propria";1;"qualificado";1;0;0;1
+"834";869;36;"existentes/pagos";"abrir negocio";7409;"Desconhecido";">=7";3;"masculino solteiro";"nao";2;37;"nenhum";"propria";2;"qualificado";1;0;0;1
+"835";870;12;"existentes/pagos";"moveis";652;"<100";">=7";4;"feminino div/dep/cas";"nao";4;24;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"836";871;36;"Atrasos anteriores";"moveis";7678;"500<=X<1000";"4<=X<7";2;"feminino div/dep/cas";"nao";4;40;"nenhum";"propria";2;"qualificado";1;1;0;1
+"837";872;6;"Critico-outros creditos";"veiculo";1343;"<100";">=7";1;"masculino solteiro";"nao";4;46;"nenhum";"propria";2;"qualificado";2;0;1;1
+"838";873;24;"Critico-outros creditos";"abrir negocio";1382;"100<=X<500";"4<=X<7";4;"masculino solteiro";"nao";1;26;"nenhum";"propria";2;"qualificado";1;1;0;1
+"839";874;15;"existentes/pagos";"outros";874;"Desconhecido";"<1";4;"feminino div/dep/cas";"nao";1;24;"nenhum";"propria";1;"qualificado";1;0;0;1
+"840";875;12;"existentes/pagos";"moveis";3590;"<100";"1<=X<4";2;"masculino solteiro";"co-participativo";2;29;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"841";876;11;"Critico-outros creditos";"veiculo";1322;">=1000";"1<=X<4";4;"feminino div/dep/cas";"nao";4;40;"nenhum";"propria";2;"qualificado";1;0;0;1
+"842";877;18;"todos pagos";"reforma";1940;"<100";"<1";3;"masculino solteiro";"co-participativo";4;36;"banco";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"843";878;36;"existentes/pagos";"reforma";3595;"<100";">=7";4;"masculino solteiro";"nao";2;28;"nenhum";"propria";1;"qualificado";1;0;0;1
+"844";879;9;"existentes/pagos";"veiculo";1422;"<100";"<1";3;"masculino solteiro";"nao";2;27;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;0
+"845";880;30;"Critico-outros creditos";"reforma";6742;"Desconhecido";"4<=X<7";2;"masculino solteiro";"nao";3;36;"nenhum";"propria";2;"qualificado";1;0;0;1
+"846";881;24;"existentes/pagos";"veiculo";7814;"<100";"4<=X<7";3;"masculino solteiro";"nao";3;38;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"847";882;24;"existentes/pagos";"veiculo";9277;"Desconhecido";"1<=X<4";2;"masculino div/dep";"nao";4;48;"nenhum";"gratuita";1;"qualificado";1;1;0;1
+"848";883;30;"Critico-outros creditos";"veiculo";2181;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;36;"nenhum";"propria";2;"qualificado";1;0;0;1
+"849";884;18;"Critico-outros creditos";"reforma";1098;"<100";"Desempregado";4;"feminino div/dep/cas";"nao";4;65;"nenhum";"propria";2;"desempregado";1;0;0;1
+"850";885;24;"existentes/pagos";"moveis";4057;"<100";"4<=X<7";3;"masculino div/dep";"nao";3;43;"nenhum";"propria";1;"qualificado";1;1;0;0
+"851";886;12;"existentes/pagos";"educacao";795;"<100";"<1";4;"feminino div/dep/cas";"nao";4;53;"nenhum";"propria";1;"qualificado";1;0;0;0
+"852";887;24;"Critico-outros creditos";"abrir negocio";2825;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";3;34;"nenhum";"propria";2;"qualificado";2;1;0;1
+"853";888;48;"existentes/pagos";"abrir negocio";15672;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;23;"nenhum";"propria";1;"qualificado";1;1;0;0
+"854";889;36;"Critico-outros creditos";"veiculo";6614;"<100";">=7";4;"masculino solteiro";"nao";4;34;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;1
+"855";890;28;"todos pagos";"veiculo";7824;"Desconhecido";"<1";3;"masculino solteiro";"sim";4;40;"banco";"alugada";2;"qualificado";2;1;0;1
+"856";891;27;"Critico-outros creditos";"abrir negocio";2442;"<100";">=7";4;"masculino solteiro";"nao";4;43;"loja";"propria";4;"altamente qualificado/empresario";2;1;0;1
+"857";892;15;"Critico-outros creditos";"reforma";1829;"<100";">=7";4;"masculino solteiro";"nao";4;46;"nenhum";"propria";2;"qualificado";1;1;0;1
+"858";893;12;"Critico-outros creditos";"veiculo";2171;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;38;"banco";"propria";2;"nao qualificado";1;0;1;1
+"859";894;36;"Critico-outros creditos";"veiculo";5800;"<100";"1<=X<4";3;"masculino solteiro";"nao";4;34;"nenhum";"propria";2;"qualificado";1;1;0;1
+"860";895;18;"Critico-outros creditos";"reforma";1169;"Desconhecido";"1<=X<4";4;"masculino solteiro";"nao";3;29;"nenhum";"propria";2;"qualificado";1;1;0;1
+"861";897;21;"existentes/pagos";"reforma";2606;"<100";"<1";4;"feminino div/dep/cas";"nao";4;28;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"862";898;12;"Critico-outros creditos";"moveis";1592;">=1000";"4<=X<7";3;"feminino div/dep/cas";"nao";2;35;"nenhum";"propria";1;"qualificado";1;0;1;1
+"863";899;15;"existentes/pagos";"moveis";2186;"Desconhecido";"4<=X<7";1;"feminino div/dep/cas";"nao";4;33;"banco";"alugada";1;"nao qualificado";1;0;0;1
+"864";900;18;"existentes/pagos";"moveis";4153;"<100";"1<=X<4";2;"masculino solteiro";"co-participativo";3;42;"nenhum";"propria";1;"qualificado";1;0;0;0
+"865";901;16;"Critico-outros creditos";"veiculo";2625;"<100";">=7";2;"masculino solteiro";"sim";4;43;"banco";"alugada";1;"qualificado";1;1;0;0
+"866";902;20;"Critico-outros creditos";"veiculo";3485;"Desconhecido";"<1";2;"masculino div/dep";"nao";4;44;"nenhum";"propria";2;"qualificado";1;1;0;1
+"867";903;36;"Critico-outros creditos";"veiculo";10477;"Desconhecido";">=7";2;"masculino solteiro";"nao";4;42;"nenhum";"gratuita";2;"qualificado";1;0;0;1
+"868";904;15;"existentes/pagos";"reforma";1386;"Desconhecido";"1<=X<4";4;"masculino cas/viu";"nao";2;40;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"869";905;24;"existentes/pagos";"reforma";1278;"<100";">=7";4;"masculino solteiro";"nao";1;36;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"870";906;12;"existentes/pagos";"reforma";1107;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;20;"nenhum";"alugada";1;"altamente qualificado/empresario";2;1;0;1
+"871";907;21;"existentes/pagos";"veiculo";3763;"Desconhecido";"4<=X<7";2;"masculino solteiro";"co-participativo";2;24;"nenhum";"propria";1;"nao qualificado";1;0;1;1
+"872";908;36;"existentes/pagos";"educacao";3711;"Desconhecido";"1<=X<4";2;"masculino cas/viu";"nao";2;27;"nenhum";"propria";1;"qualificado";1;0;0;1
+"873";909;15;"Atrasos anteriores";"veiculo";3594;"<100";"<1";1;"feminino div/dep/cas";"nao";2;46;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"874";910;9;"existentes/pagos";"veiculo";3195;"Desconhecido";"1<=X<4";1;"feminino div/dep/cas";"nao";2;33;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"875";911;36;"Atrasos anteriores";"reforma";4454;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";4;34;"nenhum";"propria";2;"qualificado";1;0;0;1
+"876";912;24;"Critico-outros creditos";"moveis";4736;"<100";"<1";2;"feminino div/dep/cas";"nao";4;25;"banco";"propria";1;"nao qualificado";1;0;0;0
+"877";913;30;"existentes/pagos";"reforma";2991;"Desconhecido";">=7";2;"feminino div/dep/cas";"nao";4;25;"nenhum";"propria";1;"qualificado";1;0;0;1
+"878";914;11;"existentes/pagos";"abrir negocio";2142;">=1000";">=7";1;"masculino div/dep";"nao";2;28;"nenhum";"propria";1;"qualificado";1;1;0;1
+"879";915;24;"todos pagos";"abrir negocio";3161;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;31;"nenhum";"alugada";1;"qualificado";1;1;0;0
+"880";916;48;"sem creditos/todos pagos";"outros";18424;"<100";"1<=X<4";1;"feminino div/dep/cas";"nao";2;32;"banco";"propria";1;"altamente qualificado/empresario";1;1;1;0
+"881";917;10;"existentes/pagos";"veiculo";2848;"100<=X<500";"1<=X<4";1;"masculino solteiro";"co-participativo";2;32;"nenhum";"propria";1;"qualificado";2;0;0;1
+"882";918;6;"existentes/pagos";"veiculo";14896;"<100";">=7";1;"masculino solteiro";"nao";4;68;"banco";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"883";919;24;"existentes/pagos";"moveis";2359;"100<=X<500";"Desempregado";1;"masculino div/dep";"nao";1;33;"nenhum";"propria";1;"qualificado";1;0;0;0
+"884";920;24;"existentes/pagos";"moveis";3345;"<100";">=7";4;"masculino solteiro";"nao";2;39;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;0
+"885";921;18;"Critico-outros creditos";"moveis";1817;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;28;"nenhum";"propria";2;"qualificado";1;0;0;1
+"886";922;48;"Atrasos anteriores";"reforma";12749;"500<=X<1000";"4<=X<7";4;"masculino solteiro";"nao";1;37;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"887";923;9;"existentes/pagos";"reforma";1366;"<100";"<1";3;"feminino div/dep/cas";"nao";4;22;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"888";924;12;"existentes/pagos";"veiculo";2002;"<100";"4<=X<7";3;"masculino solteiro";"nao";4;30;"nenhum";"alugada";1;"qualificado";2;1;0;1
+"889";925;24;"todos pagos";"moveis";6872;"<100";"<1";2;"masculino div/dep";"nao";1;55;"banco";"propria";1;"qualificado";1;1;0;0
+"890";926;12;"todos pagos";"veiculo";697;"<100";"<1";4;"masculino solteiro";"nao";2;46;"banco";"propria";2;"qualificado";1;1;0;0
+"891";927;18;"Critico-outros creditos";"moveis";1049;"<100";"<1";4;"feminino div/dep/cas";"nao";4;21;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"892";928;48;"existentes/pagos";"veiculo";10297;"<100";"4<=X<7";4;"masculino solteiro";"nao";4;39;"loja";"gratuita";3;"qualificado";2;1;0;0
+"893";929;30;"existentes/pagos";"reforma";1867;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;58;"nenhum";"propria";1;"qualificado";1;1;0;1
+"894";930;12;"Atrasos anteriores";"veiculo";1344;"<100";"1<=X<4";4;"masculino solteiro";"nao";2;43;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"895";931;24;"existentes/pagos";"moveis";1747;"<100";"<1";4;"masculino solteiro";"co-participativo";1;24;"nenhum";"propria";1;"nao qualificado";1;0;1;1
+"896";932;9;"existentes/pagos";"reforma";1670;"<100";"<1";4;"feminino div/dep/cas";"nao";2;22;"nenhum";"propria";1;"qualificado";1;1;0;0
+"897";933;9;"Critico-outros creditos";"veiculo";1224;"<100";"1<=X<4";3;"masculino solteiro";"nao";1;30;"nenhum";"propria";2;"qualificado";1;0;0;1
+"898";934;12;"Critico-outros creditos";"reforma";522;"500<=X<1000";">=7";4;"masculino solteiro";"nao";4;42;"nenhum";"propria";2;"qualificado";2;1;0;1
+"899";935;12;"existentes/pagos";"reforma";1498;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";1;23;"banco";"propria";1;"qualificado";1;0;0;1
+"900";936;30;"Atrasos anteriores";"reforma";1919;"100<=X<500";"<1";4;"masculino solteiro";"nao";3;30;"loja";"propria";2;"altamente qualificado/empresario";1;0;0;0
+"901";937;9;"existentes/pagos";"reforma";745;"<100";"1<=X<4";3;"feminino div/dep/cas";"nao";2;28;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"902";938;6;"existentes/pagos";"reforma";2063;"<100";"<1";4;"masculino cas/viu";"nao";3;30;"nenhum";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"903";939;60;"existentes/pagos";"educacao";6288;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;42;"nenhum";"gratuita";1;"qualificado";1;0;0;0
+"904";940;24;"Critico-outros creditos";"veiculo";6842;"Desconhecido";"1<=X<4";2;"masculino solteiro";"nao";4;46;"nenhum";"propria";2;"altamente qualificado/empresario";2;1;0;1
+"905";941;12;"existentes/pagos";"veiculo";3527;"Desconhecido";"<1";2;"masculino solteiro";"nao";3;45;"nenhum";"propria";1;"altamente qualificado/empresario";2;1;0;1
+"906";942;10;"existentes/pagos";"veiculo";1546;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;31;"nenhum";"propria";1;"nao qualificado";2;0;1;1
+"907";943;24;"existentes/pagos";"moveis";929;"Desconhecido";"4<=X<7";4;"masculino solteiro";"nao";2;31;"loja";"propria";1;"qualificado";1;1;0;1
+"908";944;4;"Critico-outros creditos";"veiculo";1455;"<100";"4<=X<7";2;"masculino solteiro";"nao";1;42;"nenhum";"propria";3;"nao qualificado";2;0;0;1
+"909";946;48;"sem creditos/todos pagos";"veiculo";8358;"500<=X<1000";"<1";1;"feminino div/dep/cas";"nao";1;30;"nenhum";"propria";2;"qualificado";1;0;0;1
+"910";947;24;"todos pagos";"moveis";3349;"500<=X<1000";"<1";4;"masculino solteiro";"nao";4;30;"nenhum";"gratuita";1;"qualificado";2;1;0;0
+"911";948;12;"existentes/pagos";"veiculo";2859;"Desconhecido";"Desempregado";4;"masculino solteiro";"nao";4;38;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"912";949;18;"existentes/pagos";"moveis";1533;"<100";"<1";4;"masculino cas/viu";"co-participativo";1;43;"nenhum";"propria";1;"nao qualificado";2;0;0;0
+"913";950;24;"existentes/pagos";"reforma";3621;"100<=X<500";">=7";2;"masculino solteiro";"nao";4;31;"nenhum";"propria";2;"qualificado";1;0;0;0
+"914";951;18;"Critico-outros creditos";"abrir negocio";3590;"<100";"Desempregado";3;"masculino cas/viu";"nao";3;40;"nenhum";"propria";3;"desempregado";2;1;0;1
+"915";952;36;"Atrasos anteriores";"abrir negocio";2145;"<100";"4<=X<7";2;"masculino solteiro";"nao";1;24;"nenhum";"propria";2;"qualificado";1;1;0;0
+"916";953;24;"existentes/pagos";"veiculo";4113;"500<=X<1000";"<1";3;"feminino div/dep/cas";"nao";4;28;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"917";954;36;"existentes/pagos";"moveis";10974;"<100";"Desempregado";4;"feminino div/dep/cas";"nao";2;26;"nenhum";"propria";2;"altamente qualificado/empresario";1;1;0;0
+"918";955;12;"existentes/pagos";"veiculo";1893;"<100";"1<=X<4";4;"feminino div/dep/cas";"sim";4;29;"nenhum";"propria";1;"qualificado";1;1;0;1
+"919";956;24;"Critico-outros creditos";"reforma";1231;">=1000";">=7";4;"feminino div/dep/cas";"nao";4;57;"nenhum";"alugada";2;"altamente qualificado/empresario";1;1;0;1
+"920";957;30;"Critico-outros creditos";"reforma";3656;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;49;"loja";"propria";2;"nao qualificado";1;0;0;1
+"921";958;9;"Critico-outros creditos";"reforma";1154;"<100";">=7";2;"masculino solteiro";"nao";4;37;"nenhum";"propria";3;"nao qualificado";1;0;0;1
+"922";959;28;"existentes/pagos";"veiculo";4006;"<100";"1<=X<4";3;"masculino solteiro";"nao";2;45;"nenhum";"propria";1;"nao qualificado";1;0;0;0
+"923";961;6;"Critico-outros creditos";"reforma";1740;"<100";">=7";2;"masculino cas/viu";"nao";2;30;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"924";962;21;"Atrasos anteriores";"veiculo";2353;"<100";"1<=X<4";1;"masculino div/dep";"nao";4;47;"nenhum";"propria";2;"qualificado";1;0;0;1
+"925";963;15;"existentes/pagos";"veiculo";3556;"Desconhecido";"1<=X<4";3;"masculino solteiro";"nao";2;29;"nenhum";"propria";1;"qualificado";1;0;0;1
+"926";964;24;"existentes/pagos";"reforma";2397;"500<=X<1000";">=7";3;"masculino solteiro";"nao";2;35;"banco";"propria";2;"qualificado";1;1;0;0
+"927";965;6;"existentes/pagos";"reforma";454;"<100";"<1";3;"masculino cas/viu";"nao";1;22;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"928";966;30;"existentes/pagos";"reforma";1715;"Desconhecido";"1<=X<4";4;"feminino div/dep/cas";"nao";1;26;"nenhum";"propria";1;"qualificado";1;0;0;1
+"929";967;27;"Critico-outros creditos";"reforma";2520;"500<=X<1000";"1<=X<4";4;"masculino solteiro";"nao";2;23;"nenhum";"propria";2;"nao qualificado";1;0;0;0
+"930";968;15;"existentes/pagos";"reforma";3568;"<100";">=7";4;"feminino div/dep/cas";"nao";2;54;"banco";"alugada";1;"altamente qualificado/empresario";1;1;0;1
+"931";969;42;"existentes/pagos";"reforma";7166;"Desconhecido";"4<=X<7";2;"masculino cas/viu";"nao";4;29;"nenhum";"alugada";1;"qualificado";1;1;0;1
+"932";970;11;"Critico-outros creditos";"veiculo";3939;"<100";"1<=X<4";1;"masculino solteiro";"nao";2;40;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"933";971;15;"existentes/pagos";"reforma";1514;"100<=X<500";"1<=X<4";4;"masculino solteiro";"sim";2;22;"nenhum";"propria";1;"qualificado";1;0;0;1
+"934";972;24;"existentes/pagos";"veiculo";7393;"<100";"1<=X<4";1;"masculino solteiro";"nao";4;43;"nenhum";"propria";1;"nao qualificado";2;0;0;1
+"935";973;24;"todos pagos";"veiculo";1193;"<100";"Desempregado";1;"feminino div/dep/cas";"co-participativo";4;29;"nenhum";"alugada";2;"desempregado";1;0;0;0
+"936";974;60;"existentes/pagos";"abrir negocio";7297;"<100";">=7";4;"masculino solteiro";"co-participativo";4;36;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"937";975;30;"Critico-outros creditos";"reforma";2831;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";2;33;"nenhum";"propria";1;"qualificado";1;1;0;1
+"938";977;6;"existentes/pagos";"reforma";753;"<100";"1<=X<4";2;"feminino div/dep/cas";"sim";3;64;"nenhum";"propria";1;"qualificado";1;0;0;1
+"939";978;18;"Atrasos anteriores";"abrir negocio";2427;"Desconhecido";">=7";4;"masculino solteiro";"nao";2;42;"nenhum";"propria";2;"qualificado";1;0;0;1
+"940";979;24;"Atrasos anteriores";"veiculo";2538;"<100";">=7";4;"masculino solteiro";"nao";4;47;"nenhum";"propria";2;"nao qualificado";2;0;0;0
+"941";980;15;"todos pagos";"veiculo";1264;"100<=X<500";"1<=X<4";2;"masculino cas/viu";"nao";2;25;"nenhum";"alugada";1;"qualificado";1;0;0;0
+"942";981;30;"Critico-outros creditos";"moveis";8386;"<100";"4<=X<7";2;"masculino solteiro";"nao";2;49;"nenhum";"propria";1;"qualificado";1;0;0;0
+"943";982;48;"existentes/pagos";"abrir negocio";4844;"<100";"Desempregado";3;"masculino solteiro";"nao";2;33;"banco";"alugada";1;"altamente qualificado/empresario";1;1;0;0
+"944";983;21;"existentes/pagos";"veiculo";2923;"100<=X<500";"1<=X<4";1;"feminino div/dep/cas";"nao";1;28;"banco";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"945";984;36;"existentes/pagos";"veiculo";8229;"<100";"1<=X<4";2;"masculino solteiro";"nao";2;26;"nenhum";"propria";1;"qualificado";2;0;0;0
+"946";985;24;"Critico-outros creditos";"moveis";2028;"<100";"4<=X<7";2;"masculino solteiro";"nao";2;30;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"947";986;15;"Critico-outros creditos";"moveis";1433;"<100";"1<=X<4";4;"feminino div/dep/cas";"nao";3;25;"nenhum";"alugada";2;"qualificado";1;0;0;1
+"948";987;42;"sem creditos/todos pagos";"abrir negocio";6289;"<100";"<1";2;"masculino div/dep";"nao";1;33;"nenhum";"propria";2;"qualificado";1;0;0;1
+"949";988;13;"existentes/pagos";"reforma";1409;"100<=X<500";"Desempregado";2;"feminino div/dep/cas";"nao";4;64;"nenhum";"propria";1;"qualificado";1;0;0;1
+"950";989;24;"existentes/pagos";"veiculo";6579;"<100";"Desempregado";4;"masculino solteiro";"nao";2;29;"nenhum";"gratuita";1;"altamente qualificado/empresario";1;1;0;1
+"951";990;24;"Critico-outros creditos";"reforma";1743;"<100";">=7";4;"masculino solteiro";"nao";2;48;"nenhum";"propria";2;"nao qualificado";1;0;0;1
+"952";991;12;"Critico-outros creditos";"educacao";3565;"Desconhecido";"<1";2;"masculino solteiro";"nao";1;37;"nenhum";"propria";2;"nao qualificado";2;0;0;1
+"953";992;15;"todos pagos";"reforma";1569;"100<=X<500";">=7";4;"masculino solteiro";"nao";4;34;"banco";"propria";1;"nao qualificado";2;0;0;1
+"954";993;18;"existentes/pagos";"reforma";1936;"Desconhecido";"4<=X<7";2;"masculino cas/viu";"nao";4;23;"nenhum";"alugada";2;"nao qualificado";1;0;0;1
+"955";994;36;"existentes/pagos";"moveis";3959;"<100";"Desempregado";4;"masculino solteiro";"nao";3;30;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"956";995;12;"existentes/pagos";"veiculo";2390;"Desconhecido";">=7";4;"masculino solteiro";"nao";3;50;"nenhum";"propria";1;"qualificado";1;1;0;1
+"957";996;12;"existentes/pagos";"moveis";1736;"<100";"4<=X<7";3;"feminino div/dep/cas";"nao";4;31;"nenhum";"propria";1;"nao qualificado";1;0;0;1
+"958";997;30;"existentes/pagos";"veiculo";3857;"<100";"1<=X<4";4;"masculino div/dep";"nao";4;40;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;1
+"959";998;12;"existentes/pagos";"reforma";804;"<100";">=7";4;"masculino solteiro";"nao";4;38;"nenhum";"propria";1;"qualificado";1;0;0;1
+"960";999;45;"existentes/pagos";"reforma";1845;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;23;"nenhum";"gratuita";1;"qualificado";1;1;0;0
+"961";1000;45;"Critico-outros creditos";"veiculo";4576;"100<=X<500";"Desempregado";3;"masculino solteiro";"nao";4;27;"nenhum";"propria";1;"qualificado";1;0;0;1
+"962";15;15;"existentes/pagos";"veiculo";1403;"<100";"1<=X<4";2;"feminino div/dep/cas";"nao";4;28;"nenhum";"alugada";1;"qualificado";1;0;0;1
+"963";200;18;"Atrasos anteriores";"moveis";4297;"<100";">=7";4;"masculino div/dep";"nao";4;40;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"964";75;36;"existentes/pagos";"educacao";1977;"Desconhecido";">=7";4;"masculino solteiro";"nao";4;40;"nenhum";"propria";1;"altamente qualificado/empresario";1;1;0;0
+"965";350;9;"Critico-outros creditos";"educacao";1136;">=1000";">=7";4;"masculino solteiro";"nao";4;32;"nenhum";"gratuita";2;"qualificado";2;0;0;0
+"966";650;12;"existentes/pagos";"educacao";684;"<100";"1<=X<4";4;"masculino solteiro";"nao";4;40;"nenhum";"alugada";1;"nao qualificado";2;0;0;0
