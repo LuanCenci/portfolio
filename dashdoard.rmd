@@ -1,0 +1,82 @@
+---
+title: "Dados da Base de Dados de Crédito "
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+  library(flexdashboard)
+  library(tidyverse)
+  library(D3plusR)
+  library(janitor)
+  result <- read.csv2("C:/Users/winseven/Desktop/R/portfolio/dados/result.csv")
+```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+### Analise de Habitação
+
+```{r}
+  casas <- result %>% count(HABITACAO,sort = TRUE)
+  d3plus(data = casas, type = "bar", id = "HABITACAO", width = "100%",locale = "pt_BR") %>% 
+    d3plusX(value = "HABITACAO", label = "Tipo de Habitação", grid = FALSE) %>% 
+    d3plusY(value = "n", label = "Quantidade", grid = FALSE)
+
+```
+
+### Chart D
+
+```{r}
+categorias <- table(cut(result$Idade, breaks = seq(18,75,by = 5),right = FALSE))
+#categorias
+
+tabela <- rbind(categorias, 
+                porcentagem = 100 * prop.table(categorias))
+
+
+tabelaCategorias <- as.data.frame(
+                      t(cbind(
+                             tabela,
+                             c(sum(tabela[1,]),sum(tabela[2,])
+                               ))),row.names = c(colnames(tabela),"Total"))
+
+tabelaCategorias <- transform(tabelaCategorias,porcentagem = round(porcentagem,digits = 2))
+
+tabelaCategorias <- data.frame(categorias = row.names(tabelaCategorias),
+                        quantidades = tabelaCategorias$categorias,
+                        porcentagem = tabelaCategorias$porcentagem
+)
+#tabelaCategorias
+
+barplot(tabelaCategorias[1:10,2],ylab = "Frequencia", cex.names = 0.7, names.arg = tabelaCategorias[1:10,1],
+        col = "cadetblue", border = "cadetblue", axes = TRUE, ylim = c(0,250))
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+barplot(
+     table(result$FIADOR),
+     ylab = "Frequencia" ,
+     cex.names = 0.85,
+     names.arg = c("Sim","Não","co-participativo"),
+     col = "#53575b",
+     border = "dimgray",
+     axes = TRUE,
+     ylim = c(0,950))
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
